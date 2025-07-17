@@ -1,0 +1,733 @@
+2025-07-17 12:59:03,292 INFO Using default request storage
+2025-07-17 12:59:03,338 INFO Created proxy listening on 127.0.0.1:61245
+2025-07-17 12:59:05,298 INFO Capturing request: http://clients2.google.com/time/1/current?cup2key=9:zq1pw8I6zXaDHGZNe3UZQ2-H5l2lEeMNlARYY57_-Zk&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-07-17 12:59:05,496 INFO Visiting .\urls.txt
+2025-07-17 12:59:05,518 WARNING Navigation exception for .\urls.txt: Message: invalid argument
+  (Session info: chrome=138.0.7204.101)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff669d2e925+77845]
+	GetHandleVerifier [0x0x7ff669d2e980+77936]
+	(No symbol) [0x0x7ff669ae9b0c]
+	(No symbol) [0x0x7ff669ad6ca8]
+	(No symbol) [0x0x7ff669ad505c]
+	(No symbol) [0x0x7ff669ad572c]
+	(No symbol) [0x0x7ff669aedc8a]
+	(No symbol) [0x0x7ff669b918be]
+	(No symbol) [0x0x7ff669b688ca]
+	(No symbol) [0x0x7ff669b90b07]
+	(No symbol) [0x0x7ff669b686a3]
+	(No symbol) [0x0x7ff669b31791]
+	(No symbol) [0x0x7ff669b32523]
+	GetHandleVerifier [0x0x7ff66a00683d+3059501]
+	GetHandleVerifier [0x0x7ff66a000bfd+3035885]
+	GetHandleVerifier [0x0x7ff66a0203f0+3164896]
+	GetHandleVerifier [0x0x7ff669d48c2e+185118]
+	GetHandleVerifier [0x0x7ff669d5053f+216111]
+	GetHandleVerifier [0x0x7ff669d372d4+113092]
+	GetHandleVerifier [0x0x7ff669d37489+113529]
+	GetHandleVerifier [0x0x7ff669d1e288+10616]
+	BaseThreadInitThunk [0x0x7ffa8a7fe8d7+23]
+	RtlUserThreadStart [0x0x7ffa8b23c34c+44]
+
+2025-07-17 12:59:05,548 INFO Finished .\urls.txt in 28 ms
+2025-07-17 12:59:05,550 INFO JSON report: reports/smart_report.json
+2025-07-17 12:59:05,565 INFO HTML report: reports/smart_report.html
+2025-07-17 13:02:18,829 INFO Using default request storage
+2025-07-17 13:02:18,840 INFO Created proxy listening on 127.0.0.1:61309
+2025-07-17 13:02:20,411 INFO Capturing request: http://clients2.google.com/time/1/current?cup2key=9:CUmh5aMHPsVIoK9mQvOmMqXg2u6PH7OxI8y11kfh4S4&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2025-07-17 13:02:20,914 INFO Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-07-17 13:02:20,942 INFO Visiting https://www.guru99.com
+2025-07-17 13:02:21,216 INFO Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-07-17 13:02:21,544 INFO Capturing response: http://clients2.google.com/time/1/current?cup2key=9:CUmh5aMHPsVIoK9mQvOmMqXg2u6PH7OxI8y11kfh4S4&cup2hreq=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 200 OK
+2025-07-17 13:02:22,378 INFO Capturing request: https://www.guru99.com/
+2025-07-17 13:02:23,205 INFO Capturing response: https://www.guru99.com/ 200 
+2025-07-17 13:02:23,327 INFO Capturing request: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs.css
+2025-07-17 13:02:23,343 INFO Capturing request: https://www.guru99.com/wp-includes/css/dist/block-library/style.min.css
+2025-07-17 13:02:23,346 INFO Capturing request: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs2.css
+2025-07-17 13:02:23,349 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/global.min.css
+2025-07-17 13:02:23,351 INFO Capturing request: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css
+2025-07-17 13:02:23,358 INFO Capturing response: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs.css 200 
+2025-07-17 13:02:23,359 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/simplelightbox.min.css
+2025-07-17 13:02:23,362 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/footer.min.css
+2025-07-17 13:02:23,363 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/menu-addon.css
+2025-07-17 13:02:23,364 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/header.min.css
+2025-07-17 13:02:23,366 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/content.min.css
+2025-07-17 13:02:23,368 INFO Capturing request: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css
+2025-07-17 13:02:23,369 INFO Capturing request: https://www.guru99.com/wp-content/plugins/contextual-related-posts-pro/css/rounded-thumbs.min.css
+2025-07-17 13:02:23,373 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/css/kt-social.css
+2025-07-17 13:02:23,376 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css
+2025-07-17 13:02:23,378 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css
+2025-07-17 13:02:23,380 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css
+2025-07-17 13:02:23,381 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/rankmath.min.css
+2025-07-17 13:02:23,383 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-icon.css
+2025-07-17 13:02:23,384 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-accordion.css
+2025-07-17 13:02:23,386 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css
+2025-07-17 13:02:23,387 INFO Capturing request: https://www.guru99.com/wp-content/fonts/source-sans-pro/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+2025-07-17 13:02:23,389 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/css/kadence-splide.min.css
+2025-07-17 13:02:23,390 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/dist/style-blocks-slider.css
+2025-07-17 13:02:23,392 INFO Capturing response: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs2.css 200 
+2025-07-17 13:02:23,397 INFO Capturing request: https://www.guru99.com/wp-content/fonts/9cb3802b20c55531cc9bd4ef073b5133.css
+2025-07-17 13:02:23,399 INFO Capturing request: https://www.guru99.com/wp-includes/js/jquery/jquery.min.js
+2025-07-17 13:02:23,401 INFO Capturing request: https://www.guru99.com/images/guru99-logo-v1.png
+2025-07-17 13:02:23,406 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/global.min.css 200 
+2025-07-17 13:02:23,410 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/footer.min.css 200 
+2025-07-17 13:02:23,418 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/simplelightbox.min.css 200 
+2025-07-17 13:02:23,421 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/header.min.css 200 
+2025-07-17 13:02:23,426 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/menu-addon.css 200 
+2025-07-17 13:02:23,435 INFO Capturing response: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css 200 
+2025-07-17 13:02:23,439 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/content.min.css 200 
+2025-07-17 13:02:23,443 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/rankmath.min.css 200 
+2025-07-17 13:02:23,447 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css 200 
+2025-07-17 13:02:23,452 INFO Capturing response: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css 200 
+2025-07-17 13:02:23,457 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-accordion.css 200 
+2025-07-17 13:02:23,466 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/dist/style-blocks-slider.css 200 
+2025-07-17 13:02:23,468 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/css/kadence-splide.min.css 200 
+2025-07-17 13:02:23,470 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-icon.css 200 
+2025-07-17 13:02:23,473 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css 200 
+2025-07-17 13:02:23,476 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/css/kt-social.css 200 
+2025-07-17 13:02:23,478 INFO Capturing response: https://www.guru99.com/wp-content/plugins/contextual-related-posts-pro/css/rounded-thumbs.min.css 200 
+2025-07-17 13:02:23,480 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css 200 
+2025-07-17 13:02:23,482 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css 200 
+2025-07-17 13:02:23,486 INFO Capturing response: https://www.guru99.com/wp-content/fonts/9cb3802b20c55531cc9bd4ef073b5133.css 200 
+2025-07-17 13:02:23,489 INFO Capturing response: https://www.guru99.com/wp-content/fonts/source-sans-pro/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2 200 
+2025-07-17 13:02:23,491 INFO Capturing response: https://www.guru99.com/wp-includes/js/jquery/jquery.min.js 200 
+2025-07-17 13:02:23,493 INFO Capturing response: https://www.guru99.com/images/guru99-logo-v1.png 200 
+2025-07-17 13:02:23,527 INFO Capturing response: https://www.guru99.com/wp-includes/css/dist/block-library/style.min.css 200 
+2025-07-17 13:02:23,619 INFO Capturing request: https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png
+2025-07-17 13:02:23,622 INFO Capturing request: https://www.guru99.com/images/onpay-logo-v1-1.png
+2025-07-17 13:02:23,650 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-navigation-block.min.js
+2025-07-17 13:02:23,653 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kt-accordion.min.js
+2025-07-17 13:02:23,661 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/js/kt-social-min.js
+2025-07-17 13:02:23,666 INFO Capturing request: https://www.guru99.com/images/software-review-home-v5.png
+2025-07-17 13:02:23,669 INFO Capturing request: https://www.guru99.com/images/ninjaone-logo-v2.png
+2025-07-17 13:02:23,672 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/kb-splide-slider-init.min.js
+2025-07-17 13:02:23,675 INFO Capturing request: https://www.guru99.com/images/liveproject-home-v5.png
+2025-07-17 13:02:23,677 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/kadence-mega-menu.min.js
+2025-07-17 13:02:23,680 INFO Capturing request: https://www.guru99.com/images/book-home-v5.png
+2025-07-17 13:02:23,688 INFO Capturing request: https://www.guru99.com/images/slicktext-logo-v1-1.png
+2025-07-17 13:02:23,691 INFO Capturing request: https://www.guru99.com/images/activtrack-logo-v2.png
+2025-07-17 13:02:23,697 INFO Capturing request: https://www.guru99.com/images/screenshots/remote-pc-logo-v12.png
+2025-07-17 13:02:23,705 INFO Capturing request: https://www.guru99.com/images/omnisend-logo-v1.png
+2025-07-17 13:02:23,712 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/navigation.min.js
+2025-07-17 13:02:23,715 INFO Capturing request: https://www.guru99.com/wp-content/plugins/gtranslate/js/popup.js
+2025-07-17 13:02:23,717 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/lightbox-init.min.js
+2025-07-17 13:02:23,719 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/simplelightbox.min.js
+2025-07-17 13:02:23,720 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/splide.min.js
+2025-07-17 13:02:23,726 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-navigation-block.min.js 200 
+2025-07-17 13:02:23,735 INFO Capturing response: https://www.guru99.com/images/ninjaone-logo-v2.png 200 
+2025-07-17 13:02:23,743 INFO Capturing response: https://www.guru99.com/images/liveproject-home-v5.png 200 
+2025-07-17 13:02:23,747 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/kb-splide-slider-init.min.js 200 
+2025-07-17 13:02:23,750 INFO Capturing response: https://www.guru99.com/images/software-review-home-v5.png 200 
+2025-07-17 13:02:23,758 INFO Capturing response: https://www.guru99.com/images/book-home-v5.png 200 
+2025-07-17 13:02:23,759 INFO Capturing request: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q
+2025-07-17 13:02:23,767 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/js/kt-social-min.js 200 
+2025-07-17 13:02:23,768 INFO Capturing response: https://www.guru99.com/images/activtrack-logo-v2.png 200 
+2025-07-17 13:02:23,773 INFO Capturing response: https://www.guru99.com/images/slicktext-logo-v1-1.png 200 
+2025-07-17 13:02:23,774 INFO Capturing request: https://www.googletagmanager.com/gtm.js?id=GTM-WSSCM7XJ
+2025-07-17 13:02:23,779 INFO Capturing response: https://www.guru99.com/images/screenshots/remote-pc-logo-v12.png 200 
+2025-07-17 13:02:23,780 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/simplelightbox.min.js 200 
+2025-07-17 13:02:23,783 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/kadence-mega-menu.min.js 200 
+2025-07-17 13:02:23,786 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/lightbox-init.min.js 200 
+2025-07-17 13:02:23,789 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/navigation.min.js 200 
+2025-07-17 13:02:23,792 INFO Capturing response: https://www.guru99.com/wp-content/plugins/gtranslate/js/popup.js 200 
+2025-07-17 13:02:23,796 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/splide.min.js 200 
+2025-07-17 13:02:23,798 INFO Capturing response: https://www.guru99.com/images/omnisend-logo-v1.png 200 
+2025-07-17 13:02:23,803 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kt-accordion.min.js 200 
+2025-07-17 13:02:23,818 INFO Capturing request: https://www.clarity.ms/tag/oftkirctdr
+2025-07-17 13:02:23,820 INFO Capturing response: https://www.guru99.com/images/onpay-logo-v1-1.png 200 
+2025-07-17 13:02:23,833 INFO Capturing request: https://get.geojs.io/v1/ip/geo.js?callback=jQuery37106483333785090606_1752737543547&_=1752737543548
+2025-07-17 13:02:23,836 INFO Capturing response: https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png 200 
+2025-07-17 13:02:23,838 INFO Capturing request: https://cse.google.com/cse.js?cx=005996710952209167719:cqkoqomazkc
+2025-07-17 13:02:23,863 INFO Capturing request: https://cdn.convertbox.com/convertbox/js/embed.js
+2025-07-17 13:02:23,923 INFO Capturing request: https://www.guru99.com/wp-content/plugins/gtranslate/flags/24/en.png
+2025-07-17 13:02:23,952 INFO Capturing response: https://www.guru99.com/wp-content/plugins/gtranslate/flags/24/en.png 200 
+2025-07-17 13:02:24,001 INFO Capturing response: https://www.googletagmanager.com/gtm.js?id=GTM-WSSCM7XJ 200 
+2025-07-17 13:02:24,017 INFO Capturing response: https://cdn.convertbox.com/convertbox/js/embed.js 200 
+2025-07-17 13:02:24,022 INFO Capturing response: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q 200 
+2025-07-17 13:02:24,065 INFO Capturing response: https://cse.google.com/cse.js?cx=005996710952209167719:cqkoqomazkc 200 
+2025-07-17 13:02:24,078 INFO Capturing response: https://www.clarity.ms/tag/oftkirctdr 200 
+2025-07-17 13:02:24,120 INFO Capturing response: https://get.geojs.io/v1/ip/geo.js?callback=jQuery37106483333785090606_1752737543547&_=1752737543548 200 
+2025-07-17 13:02:24,155 INFO Capturing request: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q&cx=c&gtm=45He57f1v9195883477za200&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143
+2025-07-17 13:02:24,231 INFO Capturing request: https://www.clarity.ms/s/0.8.19/clarity.js
+2025-07-17 13:02:24,369 INFO Capturing response: https://www.clarity.ms/s/0.8.19/clarity.js 200 
+2025-07-17 13:02:24,402 INFO Capturing request: https://www.google.com/cse/static/style/look/v4/minimalist.css
+2025-07-17 13:02:24,403 INFO Capturing request: https://www.google.com/cse/static/element/197b0e284b1b1f14/default+en.css
+2025-07-17 13:02:24,406 INFO Capturing request: https://www.google.com/cse/static/element/197b0e284b1b1f14/cse_element__en.js?usqp=CAM%3D
+2025-07-17 13:02:24,434 INFO Capturing response: https://www.google.com/cse/static/style/look/v4/minimalist.css 200 
+2025-07-17 13:02:24,494 INFO Capturing response: https://www.google.com/cse/static/element/197b0e284b1b1f14/default+en.css 200 
+2025-07-17 13:02:24,557 INFO Capturing response: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q&cx=c&gtm=45He57f1v9195883477za200&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143 200 
+2025-07-17 13:02:24,577 INFO Capturing response: https://www.google.com/cse/static/element/197b0e284b1b1f14/cse_element__en.js?usqp=CAM%3D 200 
+2025-07-17 13:02:24,709 INFO Capturing request: https://cse.google.com/adsense/search/async-ads.js
+2025-07-17 13:02:24,724 INFO Capturing request: https://www.google.com/cse/static/css/v2/clear.png
+2025-07-17 13:02:24,753 INFO Capturing response: https://www.google.com/cse/static/css/v2/clear.png 200 
+2025-07-17 13:02:24,756 INFO Capturing request: https://www.google.com/cse/static/images/1x/en/branding.png
+2025-07-17 13:02:24,798 INFO Capturing response: https://cse.google.com/adsense/search/async-ads.js 200 
+2025-07-17 13:02:24,801 INFO Capturing request: https://clients1.google.com/generate_204
+2025-07-17 13:02:24,808 INFO Capturing response: https://www.google.com/cse/static/images/1x/en/branding.png 200 
+2025-07-17 13:02:24,929 INFO Capturing response: https://clients1.google.com/generate_204 204 
+2025-07-17 13:02:24,954 INFO Capturing request: https://app.convertbox.com/embed/user?uuid=009be0ed-66aa-4d6f-a61b-534dc59920bf
+2025-07-17 13:02:25,067 INFO Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnE02vUqT5sRBIFDRM0Cs4h-K139Wd5ReI=?alt=proto
+2025-07-17 13:02:25,080 INFO Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnqR--DLUL5cBIFDWdns_4hc36HjqtDloo=?alt=proto
+2025-07-17 13:02:25,217 INFO Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnE02vUqT5sRBIFDRM0Cs4h-K139Wd5ReI=?alt=proto 200 
+2025-07-17 13:02:25,223 INFO Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnqR--DLUL5cBIFDWdns_4hc36HjqtDloo=?alt=proto 200 
+2025-07-17 13:02:25,262 INFO Capturing response: https://app.convertbox.com/embed/user?uuid=009be0ed-66aa-4d6f-a61b-534dc59920bf 200 OK
+2025-07-17 13:02:25,268 INFO Capturing request: https://app.convertbox.com/mix-manifest.json?1752737545
+2025-07-17 13:02:25,544 INFO Capturing response: https://app.convertbox.com/mix-manifest.json?1752737545 200 OK
+2025-07-17 13:02:25,718 INFO Capturing request: https://polyfill-fastly.io/v3/polyfill.min.js?flags=gated%7Calways&rum=true&features=Array.prototype.entries%2CArray.prototype.forEach%2CArray.prototype.includes%2CNodeList.prototype.forEach%2CObject.values%2CPromise%2CString.prototype.includes%2CSymbol%2CSymbol.iterator%2CObject.assign%2CArray.from%2CArray.isArray%2CArray.of%2CArray.prototype.findIndex%2CArray.prototype.indexOf%2CArray.prototype.keys%2CArray.prototype.values%2CString.prototype.%40%40iterator%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.filter%2CObject.defineProperty%2CObject.defineProperties%2CObject.entries%2CObject.keys
+2025-07-17 13:02:25,736 INFO Capturing response: https://polyfill-fastly.io/v3/polyfill.min.js?flags=gated%7Calways&rum=true&features=Array.prototype.entries%2CArray.prototype.forEach%2CArray.prototype.includes%2CNodeList.prototype.forEach%2CObject.values%2CPromise%2CString.prototype.includes%2CSymbol%2CSymbol.iterator%2CObject.assign%2CArray.from%2CArray.isArray%2CArray.of%2CArray.prototype.findIndex%2CArray.prototype.indexOf%2CArray.prototype.keys%2CArray.prototype.values%2CString.prototype.%40%40iterator%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.filter%2CObject.defineProperty%2CObject.defineProperties%2CObject.entries%2CObject.keys 200 
+2025-07-17 13:02:25,859 INFO Capturing request: https://cdn.convertbox.com//convertbox/js/embed-core.js?id=0902102ab1aded5459a7
+2025-07-17 13:02:26,187 INFO Capturing response: https://cdn.convertbox.com//convertbox/js/embed-core.js?id=0902102ab1aded5459a7 200 
+2025-07-17 13:02:26,205 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:02:26,251 INFO Capturing request: https://app.convertbox.com/embed/box
+2025-07-17 13:02:26,320 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:02:26,353 INFO Capturing request: https://cdn.convertbox.com//static/css/bars-preview.css?id=160301bca992a17e8cd1
+2025-07-17 13:02:26,402 INFO Capturing response: https://cdn.convertbox.com//static/css/bars-preview.css?id=160301bca992a17e8cd1 200 
+2025-07-17 13:02:26,587 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:02:26,722 INFO Capturing response: https://app.convertbox.com/embed/box 200 OK
+2025-07-17 13:02:27,055 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:02:27,330 INFO Capturing request: https://analytics.google.com/g/collect?v=2&tid=G-30SEBTJ46Q&gtm=45je57f1v888093076za200zb9195883477&_p=1752737543535&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&cid=1648393247.1752737544&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752737544&sct=1&seg=0&dl=https%3A%2F%2Fwww.guru99.com%2F&dt=Guru99%3A%20Free%20Online%20Tutorials%20and%20Business%20Software%20Reviews&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3086
+2025-07-17 13:02:27,425 INFO Capturing response: https://analytics.google.com/g/collect?v=2&tid=G-30SEBTJ46Q&gtm=45je57f1v888093076za200zb9195883477&_p=1752737543535&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&cid=1648393247.1752737544&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752737544&sct=1&seg=0&dl=https%3A%2F%2Fwww.guru99.com%2F&dt=Guru99%3A%20Free%20Online%20Tutorials%20and%20Business%20Software%20Reviews&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3086 204 
+2025-07-17 13:02:28,266 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:02:28,491 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:02:29,687 INFO Capturing request: https://fonts.bunny.net/css?family=Mali|Caveat|Lato|Lora|Montserrat|Open+Sans|Oswald|Playfair+Display|Quicksand|Raleway|Roboto|Ubuntu
+2025-07-17 13:02:29,839 INFO Capturing response: https://fonts.bunny.net/css?family=Mali|Caveat|Lato|Lora|Montserrat|Open+Sans|Oswald|Playfair+Display|Quicksand|Raleway|Roboto|Ubuntu 200 
+2025-07-17 13:02:31,306 INFO Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-07-17 13:02:31,400 INFO Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-07-17 13:02:35,336 INFO Capturing request: https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-30SEBTJ46Q&cid=1648393247.1752737544&gtm=45je57f1v888093076za200zb9195883477&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&z=1162419018
+2025-07-17 13:02:35,443 INFO Capturing request: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-30SEBTJ46Q&cid=1648393247.1752737544&gtm=45je57f1v888093076za200zb9195883477&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143
+2025-07-17 13:02:35,525 INFO Capturing response: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-30SEBTJ46Q&cid=1648393247.1752737544&gtm=45je57f1v888093076za200zb9195883477&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143 204 
+2025-07-17 13:02:35,568 INFO Capturing response: https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-30SEBTJ46Q&cid=1648393247.1752737544&gtm=45je57f1v888093076za200zb9195883477&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&z=1162419018 200 
+2025-07-17 13:02:35,690 INFO Capturing request: https://www.guru99.com/images/favicon-new-logo.png
+2025-07-17 13:02:35,722 INFO Capturing response: https://www.guru99.com/images/favicon-new-logo.png 200 
+2025-07-17 13:02:36,063 INFO Capturing request: https://c.clarity.ms/c.gif
+2025-07-17 13:02:36,285 INFO Capturing response: https://c.clarity.ms/c.gif 302 
+2025-07-17 13:02:36,478 INFO Capturing request: https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=2DE8369F246647D18358D6617E3A8565&RedC=c.clarity.ms&MXFR=19B53E63B1566FF41518284FB5566112
+2025-07-17 13:02:36,606 INFO Capturing response: https://c.bing.com/c.gif?ctsa=mr&CtsSyncId=2DE8369F246647D18358D6617E3A8565&RedC=c.clarity.ms&MXFR=19B53E63B1566FF41518284FB5566112 302 
+2025-07-17 13:02:36,724 INFO Capturing request: https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=2DE8369F246647D18358D6617E3A8565&MUID=3C81B3B65D156D15246AA59A5CBD6C1C
+2025-07-17 13:02:36,957 INFO Capturing response: https://c.clarity.ms/c.gif?ctsa=mr&CtsSyncId=2DE8369F246647D18358D6617E3A8565&MUID=3C81B3B65D156D15246AA59A5CBD6C1C 200 
+2025-07-17 13:02:37,988 INFO Finished https://www.guru99.com in 14597 ms
+2025-07-17 13:02:37,989 INFO JSON report: reports/smart_report.json
+2025-07-17 13:02:38,002 INFO HTML report: reports/smart_report.html
+2025-07-17 13:09:36,300 INFO Using default request storage
+2025-07-17 13:09:36,664 INFO Created proxy listening on 127.0.0.1:61551
+2025-07-17 13:09:38,697 INFO Visiting .\urls.txt
+2025-07-17 13:09:38,717 INFO Reports saved to reports/smart_report.json and reports/smart_report.html
+2025-07-17 13:13:34,691 INFO Using default request storage
+2025-07-17 13:13:35,072 INFO Created proxy listening on 127.0.0.1:61656
+2025-07-17 13:13:37,127 INFO Visiting .\urls.txt
+2025-07-17 13:13:37,145 INFO Reports saved to reports/smart_report.json and reports/smart_report.html
+2025-07-17 13:14:42,415 INFO Using default request storage
+2025-07-17 13:14:42,425 INFO Created proxy listening on 127.0.0.1:61721
+2025-07-17 13:14:43,972 INFO Visiting https://www.automationexercise.com
+2025-07-17 13:14:45,109 INFO Capturing request: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+2025-07-17 13:14:45,244 INFO Capturing response: https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard 200 
+2025-07-17 13:14:47,468 INFO Capturing request: https://www.automationexercise.com/
+2025-07-17 13:14:48,480 INFO Capturing response: https://www.automationexercise.com/ 200 
+2025-07-17 13:14:48,620 INFO Capturing request: https://www.automationexercise.com/static/css/prettyPhoto.css
+2025-07-17 13:14:48,621 INFO Capturing request: https://www.automationexercise.com/static/css/font-awesome.min.css
+2025-07-17 13:14:48,623 INFO Capturing request: https://www.automationexercise.com/static/css/bootstrap.min.css
+2025-07-17 13:14:48,626 INFO Capturing request: https://www.automationexercise.com/static/css/animate.css
+2025-07-17 13:14:48,627 INFO Capturing request: https://www.automationexercise.com/static/css/main.css
+2025-07-17 13:14:48,635 INFO Capturing request: https://www.automationexercise.com/static/css/responsive.css
+2025-07-17 13:14:48,637 INFO Capturing request: https://www.automationexercise.com/static/images/home/girl2.jpg
+2025-07-17 13:14:48,639 INFO Capturing request: https://www.automationexercise.com/static/images/home/logo.png
+2025-07-17 13:14:48,641 INFO Capturing request: https://www.automationexercise.com/static/images/home/girl1.jpg
+2025-07-17 13:14:48,643 INFO Capturing request: https://www.automationexercise.com/static/css/cart.css
+2025-07-17 13:14:48,645 INFO Capturing request: https://www.automationexercise.com/static/images/home/girl3.jpg
+2025-07-17 13:14:48,651 INFO Capturing request: https://www.automationexercise.com/static/js/cart.js
+2025-07-17 13:14:48,652 INFO Capturing request: https://www.automationexercise.com/static/js/subscription.js
+2025-07-17 13:14:48,654 INFO Capturing request: https://www.automationexercise.com/static/js/jquery.prettyPhoto.js
+2025-07-17 13:14:48,656 INFO Capturing request: https://www.automationexercise.com/static/js/jquery.scrollUp.min.js
+2025-07-17 13:14:48,657 INFO Capturing request: https://www.automationexercise.com/static/js/main.js
+2025-07-17 13:14:48,660 INFO Capturing request: https://www.automationexercise.com/get_product_picture/1
+2025-07-17 13:14:48,662 INFO Capturing request: https://www.automationexercise.com/static/js/bootstrap.min.js
+2025-07-17 13:14:48,663 INFO Capturing request: https://www.automationexercise.com/get_product_picture/2
+2025-07-17 13:14:48,664 INFO Capturing request: https://www.automationexercise.com/static/js/jquery.js
+2025-07-17 13:14:48,669 INFO Capturing request: https://www.automationexercise.com/get_product_picture/12
+2025-07-17 13:14:48,670 INFO Capturing request: https://www.automationexercise.com/get_product_picture/11
+2025-07-17 13:14:48,672 INFO Capturing request: https://www.automationexercise.com/get_product_picture/3
+2025-07-17 13:14:48,673 INFO Capturing request: https://www.automationexercise.com/get_product_picture/4
+2025-07-17 13:14:48,676 INFO Capturing request: https://www.automationexercise.com/get_product_picture/13
+2025-07-17 13:14:48,677 INFO Capturing request: https://www.automationexercise.com/get_product_picture/8
+2025-07-17 13:14:48,679 INFO Capturing request: https://www.automationexercise.com/get_product_picture/7
+2025-07-17 13:14:48,682 INFO Capturing request: https://www.automationexercise.com/get_product_picture/6
+2025-07-17 13:14:48,684 INFO Capturing request: https://www.automationexercise.com/get_product_picture/5
+2025-07-17 13:14:48,687 INFO Capturing request: https://www.automationexercise.com/get_product_picture/18
+2025-07-17 13:14:48,689 INFO Capturing request: https://fonts.googleapis.com/icon?family=Material+Icons
+2025-07-17 13:14:48,691 INFO Capturing request: https://www.automationexercise.com/get_product_picture/20
+2025-07-17 13:14:48,693 INFO Capturing request: https://www.automationexercise.com/get_product_picture/16
+2025-07-17 13:14:48,694 INFO Capturing request: https://www.automationexercise.com/get_product_picture/14
+2025-07-17 13:14:48,697 INFO Capturing request: https://www.automationexercise.com/get_product_picture/15
+2025-07-17 13:14:48,699 INFO Capturing request: https://www.automationexercise.com/get_product_picture/19
+2025-07-17 13:14:48,703 INFO Capturing request: https://www.automationexercise.com/get_product_picture/23
+2025-07-17 13:14:48,704 INFO Capturing request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+2025-07-17 13:14:48,706 INFO Capturing request: https://www.automationexercise.com/get_product_picture/29
+2025-07-17 13:14:48,708 INFO Capturing request: https://www.automationexercise.com/get_product_picture/22
+2025-07-17 13:14:48,709 INFO Capturing request: https://www.automationexercise.com/get_product_picture/28
+2025-07-17 13:14:48,711 INFO Capturing request: https://www.automationexercise.com/get_product_picture/21
+2025-07-17 13:14:48,715 INFO Capturing request: https://www.automationexercise.com/get_product_picture/24
+2025-07-17 13:14:48,718 INFO Capturing request: https://www.automationexercise.com/get_product_picture/41
+2025-07-17 13:14:48,719 INFO Capturing request: https://www.automationexercise.com/get_product_picture/30
+2025-07-17 13:14:48,720 INFO Capturing request: https://www.automationexercise.com/get_product_picture/33
+2025-07-17 13:14:48,722 INFO Capturing request: https://www.automationexercise.com/get_product_picture/37
+2025-07-17 13:14:48,724 INFO Capturing request: https://www.automationexercise.com/get_product_picture/42
+2025-07-17 13:14:48,726 INFO Capturing request: https://www.automationexercise.com/get_product_picture/39
+2025-07-17 13:14:48,729 INFO Capturing request: https://www.automationexercise.com/get_product_picture/40
+2025-07-17 13:14:48,731 INFO Capturing request: https://www.automationexercise.com/get_product_picture/38
+2025-07-17 13:14:48,732 INFO Capturing request: https://www.automationexercise.com/get_product_picture/35
+2025-07-17 13:14:48,733 INFO Capturing request: https://www.automationexercise.com/get_product_picture/31
+2025-07-17 13:14:48,737 INFO Capturing request: https://www.automationexercise.com/get_product_picture/43
+2025-07-17 13:14:48,741 INFO Capturing response: https://www.automationexercise.com/static/css/prettyPhoto.css 200 
+2025-07-17 13:14:48,773 INFO Capturing response: https://fonts.googleapis.com/icon?family=Material+Icons 200 
+2025-07-17 13:14:48,786 INFO Capturing response: https://www.automationexercise.com/static/css/font-awesome.min.css 200 
+2025-07-17 13:14:48,793 INFO Capturing response: https://www.automationexercise.com/static/css/animate.css 200 
+2025-07-17 13:14:48,799 INFO Capturing response: https://www.automationexercise.com/static/css/main.css 200 
+2025-07-17 13:14:48,806 INFO Capturing response: https://www.automationexercise.com/static/css/responsive.css 200 
+2025-07-17 13:14:48,929 INFO Capturing response: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019 200 
+2025-07-17 13:14:49,131 INFO Capturing response: https://www.automationexercise.com/static/images/home/logo.png 200 
+2025-07-17 13:14:49,233 INFO Capturing response: https://www.automationexercise.com/static/js/main.js 200 
+2025-07-17 13:14:49,238 INFO Capturing response: https://www.automationexercise.com/static/css/bootstrap.min.css 200 
+2025-07-17 13:14:49,242 INFO Capturing response: https://www.automationexercise.com/static/js/bootstrap.min.js 200 
+2025-07-17 13:14:49,333 INFO Capturing response: https://www.automationexercise.com/static/css/cart.css 200 
+2025-07-17 13:14:49,339 INFO Capturing response: https://www.automationexercise.com/static/js/subscription.js 200 
+2025-07-17 13:14:49,349 INFO Capturing response: https://www.automationexercise.com/static/js/jquery.scrollUp.min.js 200 
+2025-07-17 13:14:49,351 INFO Capturing response: https://www.automationexercise.com/static/js/jquery.prettyPhoto.js 200 
+2025-07-17 13:14:49,353 INFO Capturing response: https://www.automationexercise.com/static/js/cart.js 200 
+2025-07-17 13:14:49,443 INFO Capturing response: https://www.automationexercise.com/get_product_picture/1 200 
+2025-07-17 13:14:49,650 INFO Capturing response: https://www.automationexercise.com/get_product_picture/2 200 
+2025-07-17 13:14:49,872 INFO Capturing response: https://www.automationexercise.com/static/js/jquery.js 200 
+2025-07-17 13:14:49,982 INFO Capturing response: https://www.automationexercise.com/get_product_picture/5 200 
+2025-07-17 13:14:50,075 INFO Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQkbkpin-4xVvRIFDZ9GZU8h9NCMqwMNdxc=?alt=proto
+2025-07-17 13:14:50,087 INFO Capturing response: https://www.automationexercise.com/get_product_picture/3 200 
+2025-07-17 13:14:50,310 INFO Capturing response: https://www.automationexercise.com/static/images/home/girl1.jpg 200 
+2025-07-17 13:14:50,317 INFO Capturing response: https://www.automationexercise.com/get_product_picture/12 200 
+2025-07-17 13:14:50,325 INFO Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQkbkpin-4xVvRIFDZ9GZU8h9NCMqwMNdxc=?alt=proto 200 
+2025-07-17 13:14:50,636 INFO Capturing response: https://www.automationexercise.com/get_product_picture/8 200 
+2025-07-17 13:14:50,642 INFO Capturing response: https://www.automationexercise.com/get_product_picture/19 200 
+2025-07-17 13:14:50,650 INFO Capturing response: https://www.automationexercise.com/get_product_picture/16 200 
+2025-07-17 13:14:50,962 INFO Capturing response: https://www.automationexercise.com/get_product_picture/28 200 
+2025-07-17 13:14:51,070 INFO Capturing response: https://www.automationexercise.com/get_product_picture/23 200 
+2025-07-17 13:14:51,169 INFO Capturing response: https://www.automationexercise.com/get_product_picture/30 200 
+2025-07-17 13:14:52,238 INFO Capturing response: https://www.automationexercise.com/get_product_picture/38 200 
+2025-07-17 13:14:52,556 INFO Capturing response: https://www.automationexercise.com/get_product_picture/18 200 
+2025-07-17 13:14:52,665 INFO Capturing response: https://www.automationexercise.com/get_product_picture/14 200 
+2025-07-17 13:14:52,970 INFO Capturing response: https://www.automationexercise.com/get_product_picture/20 200 
+2025-07-17 13:14:53,387 INFO Capturing response: https://www.automationexercise.com/get_product_picture/33 200 
+2025-07-17 13:14:53,702 INFO Capturing response: https://www.automationexercise.com/static/images/home/girl2.jpg 200 
+2025-07-17 13:14:54,013 INFO Capturing response: https://www.automationexercise.com/get_product_picture/35 200 
+2025-07-17 13:14:54,322 INFO Capturing response: https://www.automationexercise.com/get_product_picture/4 200 
+2025-07-17 13:14:54,428 INFO Capturing response: https://www.automationexercise.com/get_product_picture/6 200 
+2025-07-17 13:14:54,443 INFO Capturing response: https://www.automationexercise.com/get_product_picture/7 200 
+2025-07-17 13:14:54,647 INFO Capturing response: https://www.automationexercise.com/get_product_picture/22 200 
+2025-07-17 13:14:54,650 INFO Capturing response: https://www.automationexercise.com/get_product_picture/15 200 
+2025-07-17 13:14:55,062 INFO Capturing response: https://www.automationexercise.com/get_product_picture/39 200 
+2025-07-17 13:14:55,070 INFO Capturing response: https://www.automationexercise.com/static/images/home/girl3.jpg 200 
+2025-07-17 13:14:56,329 INFO Capturing response: https://www.automationexercise.com/get_product_picture/43 200 
+2025-07-17 13:14:56,543 INFO Capturing response: https://www.automationexercise.com/get_product_picture/31 200 
+2025-07-17 13:14:56,672 INFO Capturing request: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE
+2025-07-17 13:14:56,866 INFO Capturing response: https://optimizationguide-pa.googleapis.com/v1:GetModels?key=AIzaSyA2KlwBX3mkFo30om9LUFYQhpqLoa_BNhE 200 
+2025-07-17 13:14:56,971 INFO Capturing response: https://www.automationexercise.com/get_product_picture/37 200 
+2025-07-17 13:14:57,287 INFO Capturing response: https://www.automationexercise.com/get_product_picture/13 200 
+2025-07-17 13:14:57,390 INFO Capturing response: https://www.automationexercise.com/get_product_picture/24 200 
+2025-07-17 13:14:57,397 INFO Capturing response: https://www.automationexercise.com/get_product_picture/40 200 
+2025-07-17 13:14:57,823 INFO Capturing response: https://www.automationexercise.com/get_product_picture/41 200 
+2025-07-17 13:14:57,829 INFO Capturing response: https://www.automationexercise.com/get_product_picture/42 200 
+2025-07-17 13:14:57,935 INFO Capturing response: https://www.automationexercise.com/get_product_picture/21 200 
+2025-07-17 13:14:58,032 INFO Capturing response: https://www.automationexercise.com/get_product_picture/11 200 
+2025-07-17 13:14:58,054 INFO Capturing request: https://www.automationexercise.com/static/fonts/fontawesome-webfont.woff?v=4.0.3
+2025-07-17 13:14:58,117 INFO Capturing request: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202507140101/show_ads_impl.js?bust=31093487
+2025-07-17 13:14:58,162 INFO Capturing request: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2
+2025-07-17 13:14:58,230 INFO Capturing response: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2 200 
+2025-07-17 13:14:58,330 INFO Capturing response: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202507140101/show_ads_impl.js?bust=31093487 200 
+2025-07-17 13:14:58,546 INFO Capturing request: https://googleads.g.doubleclick.net/pagead/html/r20250715/r20190131/zrt_lookup.html
+2025-07-17 13:14:58,548 INFO Capturing request: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1677597403311019&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1752738298&plat=1%3A8%2C2%3A8%2C3%3A2162688%2C4%3A2162688%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fwww.automationexercise.com%2F&pra=5&wgl=1&aihb=0&aiudt=1&asro=0&aifxl=29_18~30_19&aiapm=0.1542&aiapmd=0.1542&aiapmi=0.16&aiapmid=0.16&aiact=0.5423&aiactd=0.5423&aicct=0.7&aicctd=0.5799&ailct=0.5849&ailctd=0.65&aimart=4&aimartd=4&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738288958&bpp=36&bdt=465&idt=9407&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=7567976205405&frm=20&pv=2&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=1&uci=a!1&fsb=1&dtd=9436
+2025-07-17 13:14:58,568 INFO Capturing response: https://googleads.g.doubleclick.net/pagead/html/r20250715/r20190131/zrt_lookup.html 200 
+2025-07-17 13:14:58,571 INFO Capturing response: https://www.automationexercise.com/static/fonts/fontawesome-webfont.woff?v=4.0.3 200 
+2025-07-17 13:14:58,693 INFO Capturing response: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1677597403311019&output=html&adk=1812271804&adf=3025194257&abgtt=6&lmt=1752738298&plat=1%3A8%2C2%3A8%2C3%3A2162688%2C4%3A2162688%2C9%3A32776%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32%2C41%3A32%2C42%3A32&format=0x0&url=https%3A%2F%2Fwww.automationexercise.com%2F&pra=5&wgl=1&aihb=0&aiudt=1&asro=0&aifxl=29_18~30_19&aiapm=0.1542&aiapmd=0.1542&aiapmi=0.16&aiapmid=0.16&aiact=0.5423&aiactd=0.5423&aicct=0.7&aicctd=0.5799&ailct=0.5849&ailctd=0.65&aimart=4&aimartd=4&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738288958&bpp=36&bdt=465&idt=9407&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&nras=1&correlator=7567976205405&frm=20&pv=2&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=-12245933&ady=-12245933&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fsapi=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=1&uci=a!1&fsb=1&dtd=9436 200 
+2025-07-17 13:14:58,885 INFO Capturing response: https://www.automationexercise.com/get_product_picture/29 200 
+2025-07-17 13:14:58,901 INFO Capturing request: https://fundingchoicesmessages.google.com/i/ca-pub-1677597403311019?href=https%3A%2F%2Fwww.automationexercise.com&ers=2
+2025-07-17 13:14:58,979 INFO Capturing request: https://pagead2.googlesyndication.com/pagead/ping?e=1
+2025-07-17 13:14:59,083 INFO Capturing response: https://fundingchoicesmessages.google.com/i/ca-pub-1677597403311019?href=https%3A%2F%2Fwww.automationexercise.com&ers=2 200 
+2025-07-17 13:14:59,115 INFO Capturing response: https://pagead2.googlesyndication.com/pagead/ping?e=1 204 
+2025-07-17 13:14:59,172 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:14:59,245 INFO Capturing request: https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-1677597403311019&output=html&h=280&adk=500105855&adf=854766408&pi=t.aa~a.736490994~rp.1&w=747&abgtt=6&fwrn=4&fwrnh=100&lmt=1752738299&rafmt=1&to=qs&pwprc=4334590153&format=747x280&url=https%3A%2F%2Fwww.automationexercise.com%2F&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738298796&bpp=1&bdt=10303&idt=1&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C717x280&nras=3&correlator=7567976205405&frm=20&pv=1&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=0&ady=40380&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=3&uci=a!3&btvi=2&fsb=1&dtd=335
+2025-07-17 13:14:59,248 INFO Capturing request: https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-1677597403311019&output=html&h=280&adk=2246780995&adf=3068533328&pi=t.aa~a.818978976~rp.3&w=717&abgtt=6&fwrn=4&fwrnh=100&lmt=1752738299&rafmt=1&to=qs&pwprc=4334590153&format=717x280&url=https%3A%2F%2Fwww.automationexercise.com%2F&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738298796&bpp=2&bdt=10303&idt=-M&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=2&correlator=7567976205405&frm=20&pv=1&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=15&ady=1041&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=2&uci=a!2&btvi=1&fsb=1&dtd=334
+2025-07-17 13:14:59,251 INFO Capturing request: https://fundingchoicesmessages.google.com/f/AGSKWxUkseAcfyFi3Q9A4zIp5CseYdrez8QBQmUe89cYnEEHsxn8Ttl4YKmb2dGjnhZxrzFXv5b9hy7XYmlL-zbC1LtcglTB74cAtsVdXTreFeLmGnpcH5faHcGKAxyeIMa6Bppbz_Xdag==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4Mjk5LDEyNTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly93d3cuYXV0b21hdGlvbmV4ZXJjaXNlLmNvbS8iLG51bGwsW1syNiwiMTAiXSxbOCwiOGV5ekM0QTRJZDAiXSxbOSwiZW4tVVMiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI1LCJbWzk1MzU5MjYxXV0iXSxbMjksImZhbHNlIl1dXQ
+2025-07-17 13:14:59,374 INFO Capturing response: https://fundingchoicesmessages.google.com/f/AGSKWxUkseAcfyFi3Q9A4zIp5CseYdrez8QBQmUe89cYnEEHsxn8Ttl4YKmb2dGjnhZxrzFXv5b9hy7XYmlL-zbC1LtcglTB74cAtsVdXTreFeLmGnpcH5faHcGKAxyeIMa6Bppbz_Xdag==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4Mjk5LDEyNTAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly93d3cuYXV0b21hdGlvbmV4ZXJjaXNlLmNvbS8iLG51bGwsW1syNiwiMTAiXSxbOCwiOGV5ekM0QTRJZDAiXSxbOSwiZW4tVVMiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI1LCJbWzk1MzU5MjYxXV0iXSxbMjksImZhbHNlIl1dXQ 200 
+2025-07-17 13:14:59,383 INFO Capturing response: https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-1677597403311019&output=html&h=280&adk=2246780995&adf=3068533328&pi=t.aa~a.818978976~rp.3&w=717&abgtt=6&fwrn=4&fwrnh=100&lmt=1752738299&rafmt=1&to=qs&pwprc=4334590153&format=717x280&url=https%3A%2F%2Fwww.automationexercise.com%2F&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738298796&bpp=2&bdt=10303&idt=-M&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0&nras=2&correlator=7567976205405&frm=20&pv=1&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=15&ady=1041&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=2&uci=a!2&btvi=1&fsb=1&dtd=334 200 
+2025-07-17 13:14:59,393 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:14:59,492 INFO Capturing response: https://googleads.g.doubleclick.net/pagead/ads?gdpr=0&client=ca-pub-1677597403311019&output=html&h=280&adk=500105855&adf=854766408&pi=t.aa~a.736490994~rp.1&w=747&abgtt=6&fwrn=4&fwrnh=100&lmt=1752738299&rafmt=1&to=qs&pwprc=4334590153&format=747x280&url=https%3A%2F%2Fwww.automationexercise.com%2F&fwr=0&pra=3&rpe=1&resp_fmts=3&wgl=1&fa=40&uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTM4LjAuNzIwNC4xMDEiLG51bGwsMCxudWxsLCI2NCIsW1siTm90KUE7QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjEzOC4wLjcyMDQuMTAxIl0sWyJHb29nbGUgQ2hyb21lIiwiMTM4LjAuNzIwNC4xMDEiXV0sMF0.&dt=1752738298796&bpp=1&bdt=10303&idt=1&shv=r20250715&mjsv=m202507140101&ptt=9&saldr=aa&abxe=1&cookie_enabled=1&eoidce=1&prev_fmts=0x0%2C717x280&nras=3&correlator=7567976205405&frm=20&pv=1&u_tz=330&u_his=2&u_h=600&u_w=800&u_ah=600&u_aw=800&u_cd=24&u_sd=1&dmc=8&adx=0&ady=40380&biw=747&bih=432&scr_x=0&scr_y=0&eid=95333410%2C95362655%2C95365881%2C95366346%2C31093487%2C95359265%2C95366368&oid=2&pvsid=5942295233472437&tmod=1881797736&uas=0&nvt=1&fc=1920&brdim=10%2C10%2C10%2C10%2C800%2C0%2C780%2C580%2C762%2C432&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=128&bc=31&bz=1.02&td=1&tdf=2&psd=W251bGwsbnVsbCxudWxsLDNd&nt=1&ifi=3&uci=a!3&btvi=2&fsb=1&dtd=335 200 
+2025-07-17 13:14:59,507 INFO Capturing request: https://fundingchoicesmessages.google.com/f/AGSKWxVxpN26HzcM0j-qcjw-HhySW_z1KPQnpqhxdr7YuC_8QZsVkox3-2lROT6Tduu8u_YlG9jcDp-fwwOurYV-Or61U79Brc4wnkTvHbEtYdkaJW-ruEMjK6mgZ2hOkseCsiy3tPbZHQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4Mjk5LDM4ODAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vd3d3LmF1dG9tYXRpb25leGVyY2lzZS5jb20vIixudWxsLFtbMjYsIjEwIl0sWzgsIjhleXpDNEE0SWQwIl0sWzksImVuLVVTIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyNSwiW1s5NTM1OTI2MV1dIl0sWzI5LCJmYWxzZSJdXV0
+2025-07-17 13:14:59,633 INFO Capturing response: https://fundingchoicesmessages.google.com/f/AGSKWxVxpN26HzcM0j-qcjw-HhySW_z1KPQnpqhxdr7YuC_8QZsVkox3-2lROT6Tduu8u_YlG9jcDp-fwwOurYV-Or61U79Brc4wnkTvHbEtYdkaJW-ruEMjK6mgZ2hOkseCsiy3tPbZHQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4Mjk5LDM4ODAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOV0sbnVsbCwyLG51bGwsImVuIl0sImh0dHBzOi8vd3d3LmF1dG9tYXRpb25leGVyY2lzZS5jb20vIixudWxsLFtbMjYsIjEwIl0sWzgsIjhleXpDNEE0SWQwIl0sWzksImVuLVVTIl0sWzE5LCIyIl0sWzE3LCJbMF0iXSxbMjQsIiJdLFsyNSwiW1s5NTM1OTI2MV1dIl0sWzI5LCJmYWxzZSJdXV0 200 
+2025-07-17 13:14:59,756 INFO Capturing request: https://www.automationexercise.com/static/images/home/short_logo.png
+2025-07-17 13:14:59,833 INFO Capturing request: https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20250715&st=env
+2025-07-17 13:14:59,989 INFO Capturing response: https://www.automationexercise.com/static/images/home/short_logo.png 200 
+2025-07-17 13:15:00,066 INFO Capturing response: https://ep1.adtrafficquality.google/getconfig/sodar?sv=200&tid=gda&tv=r20250715&st=env 200 
+2025-07-17 13:15:00,279 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:15:00,380 INFO Capturing request: https://fundingchoicesmessages.google.com/f/AGSKWxXKK74ZKlo_5O0kziCNw01CLlHaz_be9UwmUkL_1PKhIl-63K3ego8XugYUax9a0LYpNWHKXCPnGhXL0dMXuBXxnWAYO4X79leo-3UhoC5GY_XR6hTcF4nPPLMKPuOX9P1NVFiB1U0qmPaa5TL3jwi265UXQ7DDA7OIgYdUj9rpBuLeb-8qcy0l8CpS/_/iframe_ad./advertiser./redirect_awe./repeat_adv./cubead.
+2025-07-17 13:15:00,388 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:15:00,409 INFO Capturing request: https://ep2.adtrafficquality.google/sodar/sodar2.js
+2025-07-17 13:15:00,440 INFO Capturing request: https://pagead2.googlesyndication.com/pagead/osd.js?fcd=true
+2025-07-17 13:15:00,564 INFO Capturing response: https://pagead2.googlesyndication.com/pagead/osd.js?fcd=true 200 
+2025-07-17 13:15:00,576 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:15:00,584 INFO Capturing response: https://fundingchoicesmessages.google.com/f/AGSKWxXKK74ZKlo_5O0kziCNw01CLlHaz_be9UwmUkL_1PKhIl-63K3ego8XugYUax9a0LYpNWHKXCPnGhXL0dMXuBXxnWAYO4X79leo-3UhoC5GY_XR6hTcF4nPPLMKPuOX9P1NVFiB1U0qmPaa5TL3jwi265UXQ7DDA7OIgYdUj9rpBuLeb-8qcy0l8CpS/_/iframe_ad./advertiser./redirect_awe./repeat_adv./cubead. 200 
+2025-07-17 13:15:00,593 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:15:00,597 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:15:00,610 INFO Capturing response: https://ep2.adtrafficquality.google/sodar/sodar2.js 200 
+2025-07-17 13:15:00,693 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:15:00,708 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:15:00,812 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:15:00,826 INFO Capturing request: https://fundingchoicesmessages.google.com/f/AGSKWxWlnqnYOf7Xxw0lqMeD5iqiJk3OSno8JC9jrcgHT5v93JyKfKyV_nw2x2DI_-_jPsgxRZzoZW8BtDLDNoZIThAhRurbIFxWGdx9ZAvxSPsKy1w-gJvwAp2vgQSIRTZVfzaSkESWog==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4MzAwLDU5MDAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly93d3cuYXV0b21hdGlvbmV4ZXJjaXNlLmNvbS8iLG51bGwsW1syNiwiMTAiXSxbOCwiOGV5ekM0QTRJZDAiXSxbOSwiZW4tVVMiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI1LCJbWzk1MzU5MjYxXV0iXSxbMjksImZhbHNlIl1dXQ
+2025-07-17 13:15:00,840 INFO Capturing request: https://www.google.com/recaptcha/api2/aframe
+2025-07-17 13:15:00,856 INFO Capturing request: https://ep2.adtrafficquality.google/sodar/sodar2/237/runner.html
+2025-07-17 13:15:01,011 INFO Capturing response: https://ep2.adtrafficquality.google/sodar/sodar2/237/runner.html 200 
+2025-07-17 13:15:01,042 INFO Capturing response: https://www.google.com/recaptcha/api2/aframe 200 
+2025-07-17 13:15:01,052 INFO Capturing response: https://fundingchoicesmessages.google.com/f/AGSKWxWlnqnYOf7Xxw0lqMeD5iqiJk3OSno8JC9jrcgHT5v93JyKfKyV_nw2x2DI_-_jPsgxRZzoZW8BtDLDNoZIThAhRurbIFxWGdx9ZAvxSPsKy1w-gJvwAp2vgQSIRTZVfzaSkESWog==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzUyNzM4MzAwLDU5MDAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzcsOSw2XSxudWxsLDIsbnVsbCwiZW4iLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCwxXSwiaHR0cHM6Ly93d3cuYXV0b21hdGlvbmV4ZXJjaXNlLmNvbS8iLG51bGwsW1syNiwiMTAiXSxbOCwiOGV5ekM0QTRJZDAiXSxbOSwiZW4tVVMiXSxbMTksIjIiXSxbMTcsIlswXSJdLFsyNCwiIl0sWzI1LCJbWzk1MzU5MjYxXV0iXSxbMjksImZhbHNlIl1dXQ 200 
+2025-07-17 13:15:01,068 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxUKryJRkK4spGS6Bf_mnoAYmAEpqizQaEXq7jRjEYMs6trzY8zib1Lry0zZnRXGLH2k0jkBRyIrK74X6ejiqW_PMWXEoKLBWQUilyKHqd3yeBlChjsG0WUbMhd6SoIk6IV-w-dc8g==
+2025-07-17 13:15:01,074 INFO Capturing request: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q==
+2025-07-17 13:15:01,180 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxXDdvL0DIjCVF0IKs3oZujp1TYrL4Ey7kys-kaEVVaKeX_JdfPqIM4Oe7oGsxObRJlFaGUj-J-tcHdl9AvA4otb1ofr4JOGj-4zazEi2xj2Xa5U-ST4t-vP2vNL3XgWYK2lUG3--Q== 204 
+2025-07-17 13:15:01,229 INFO Capturing request: https://pagead2.googlesyndication.com/bg/t68QGooTP1uSvt2hEM6frG1DMoRIl2CVoo-pAi7E_Ok.js
+2025-07-17 13:15:01,232 INFO Capturing request: https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=237&li=gda_r20250715&jk=5942295233472437&rc=
+2025-07-17 13:15:01,250 INFO Capturing response: https://pagead2.googlesyndication.com/bg/t68QGooTP1uSvt2hEM6frG1DMoRIl2CVoo-pAi7E_Ok.js 200 
+2025-07-17 13:15:01,295 INFO Capturing response: https://fundingchoicesmessages.google.com/el/AGSKWxUKryJRkK4spGS6Bf_mnoAYmAEpqizQaEXq7jRjEYMs6trzY8zib1Lry0zZnRXGLH2k0jkBRyIrK74X6ejiqW_PMWXEoKLBWQUilyKHqd3yeBlChjsG0WUbMhd6SoIk6IV-w-dc8g== 204 
+2025-07-17 13:15:01,479 INFO Capturing response: https://pagead2.googlesyndication.com/pagead/sodar?id=sodar2&v=237&li=gda_r20250715&jk=5942295233472437&rc= 204 
+2025-07-17 13:15:01,585 INFO Capturing request: https://ep2.adtrafficquality.google/generate_204?FpEx7A
+2025-07-17 13:15:01,739 INFO Capturing response: https://ep2.adtrafficquality.google/generate_204?FpEx7A 204 
+2025-07-17 13:15:01,865 INFO Finished https://www.automationexercise.com in 15673 ms
+2025-07-17 13:15:01,865 INFO Visiting https://www.enableedge.com
+2025-07-17 13:15:02,314 INFO Capturing request: https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=237&t=2&li=gda_r20250715&jk=5942295233472437&bg=!gYKlgs3NAAY3lQNxF5U7ADQBe5WfOCXlAT4VJP8gZvUeSg9O9XxWk5r3qf30uEZNG7fWMeociQefDE44QQuoM8OejZMPAgAAAOZSAAAAGmgBB34ANabbmI2nejHC0xunq-K3foTAo9faSVcVQ3a1Tj3F9Gf9aNdLgweG_izkucuBXB0XcKvOCtlvmQKLa05D23scJbB_AOgX709EjLnNPs4SZ3poEoVonXdDHVLPyTdQJAfnNJW-qPLAe8oIjNJ3XS2PHZZ8NgvyJdBu_vSWFAR84ajHXuT4b50_pq9O-vzcgFmAnrjw3b8hzUftAcGNtaTHvwkjDGgF9GNbBqLfY400jT3kerh91MnG-X16QZZNeXtNui7f7ZHmmgnQEYwCAU8-jYNsaQX9Jl-_dY8g8qmVXGWLg2_WJ83yb0lSqWxjO4u1sQ00V36sANu4d0s5HzxBUhCIKztOc4wNkQejgqV4MJCdUM3MLF5Y7WuG4ziEzK7FhZ8D9ceNLbLM2MtyPM2xf9FouhQm3x2nDzyZg6g43BTtq0X9tNQlsfNqxpbnyKyamuCbtlKJVZbKv-NDnnuxgbeFlgWbNyAaSDv-OL20GQZNQg2Lr7y4WG2iacB6-rgQrLaxkAY_4NPjAMgvE2YExchtBlhRbzbCwVwint9oC--QSNOaqY5PL19BG2eL-SJcDA5BE7xPBIyRxBcZVQ6HBvB3Wcqi4DAajrbJ1KH2AlHdIBzocoQSG62yFEEx299ZHgC34fqbbyoUAgcJyitLWaggokJcQDVaI0SBgovCgn-bxxqxODWAM65iB_ke6gq01HD0L8b_wyxlaQnkxNNs1qtNDnd4yvFskzm5koTQQEzA7j4RTDAHxOo6jdxqcSS4wRPs1CZc1xP77iNLSFHqwCkK2OHXyocptux8N70oE8-qdXc-x6tqNCYmQyLb-OCmfhuzPTHdM_ry8iJ-HNdtWJ17T8-1QFjTeSfpgsa5uMueJuj1XqeTHARc6pslRmpa7GUYX8Y7SHMFSGXiibphRlc6roYOQ7DktwW_xsgf2rfkT_uZ
+2025-07-17 13:15:02,452 INFO Capturing response: https://ep1.adtrafficquality.google/pagead/sodar?id=sodar2&v=237&t=2&li=gda_r20250715&jk=5942295233472437&bg=!gYKlgs3NAAY3lQNxF5U7ADQBe5WfOCXlAT4VJP8gZvUeSg9O9XxWk5r3qf30uEZNG7fWMeociQefDE44QQuoM8OejZMPAgAAAOZSAAAAGmgBB34ANabbmI2nejHC0xunq-K3foTAo9faSVcVQ3a1Tj3F9Gf9aNdLgweG_izkucuBXB0XcKvOCtlvmQKLa05D23scJbB_AOgX709EjLnNPs4SZ3poEoVonXdDHVLPyTdQJAfnNJW-qPLAe8oIjNJ3XS2PHZZ8NgvyJdBu_vSWFAR84ajHXuT4b50_pq9O-vzcgFmAnrjw3b8hzUftAcGNtaTHvwkjDGgF9GNbBqLfY400jT3kerh91MnG-X16QZZNeXtNui7f7ZHmmgnQEYwCAU8-jYNsaQX9Jl-_dY8g8qmVXGWLg2_WJ83yb0lSqWxjO4u1sQ00V36sANu4d0s5HzxBUhCIKztOc4wNkQejgqV4MJCdUM3MLF5Y7WuG4ziEzK7FhZ8D9ceNLbLM2MtyPM2xf9FouhQm3x2nDzyZg6g43BTtq0X9tNQlsfNqxpbnyKyamuCbtlKJVZbKv-NDnnuxgbeFlgWbNyAaSDv-OL20GQZNQg2Lr7y4WG2iacB6-rgQrLaxkAY_4NPjAMgvE2YExchtBlhRbzbCwVwint9oC--QSNOaqY5PL19BG2eL-SJcDA5BE7xPBIyRxBcZVQ6HBvB3Wcqi4DAajrbJ1KH2AlHdIBzocoQSG62yFEEx299ZHgC34fqbbyoUAgcJyitLWaggokJcQDVaI0SBgovCgn-bxxqxODWAM65iB_ke6gq01HD0L8b_wyxlaQnkxNNs1qtNDnd4yvFskzm5koTQQEzA7j4RTDAHxOo6jdxqcSS4wRPs1CZc1xP77iNLSFHqwCkK2OHXyocptux8N70oE8-qdXc-x6tqNCYmQyLb-OCmfhuzPTHdM_ry8iJ-HNdtWJ17T8-1QFjTeSfpgsa5uMueJuj1XqeTHARc6pslRmpa7GUYX8Y7SHMFSGXiibphRlc6roYOQ7DktwW_xsgf2rfkT_uZ 204 
+2025-07-17 13:15:02,917 INFO Capturing request: https://www.enableedge.com/
+2025-07-17 13:15:03,075 INFO Capturing response: https://www.enableedge.com/ 200 
+2025-07-17 13:15:03,196 INFO Capturing request: https://www.enableedge.com/static/css/main.7ff3c8d4.css
+2025-07-17 13:15:03,198 INFO Capturing request: https://www.enableedge.com/static/js/main.1e9d5f22.js
+2025-07-17 13:15:03,380 INFO Capturing response: https://www.enableedge.com/static/css/main.7ff3c8d4.css 200 
+2025-07-17 13:15:03,547 INFO Capturing request: https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+2025-07-17 13:15:03,564 INFO Capturing request: https://fonts.googleapis.com/css2?family=Poly:ital@0;1&display=swap
+2025-07-17 13:15:03,567 INFO Capturing request: https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&amp;display=swap
+2025-07-17 13:15:03,585 INFO Capturing response: https://www.enableedge.com/static/js/main.1e9d5f22.js 200 
+2025-07-17 13:15:03,646 INFO Capturing response: https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap 200 
+2025-07-17 13:15:03,657 INFO Capturing response: https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&amp;display=swap 200 
+2025-07-17 13:15:03,660 INFO Capturing response: https://fonts.googleapis.com/css2?family=Poly:ital@0;1&display=swap 200 
+2025-07-17 13:15:04,075 INFO Capturing request: https://android.clients.google.com/checkin
+2025-07-17 13:15:04,126 INFO Capturing request: https://www.enableedge.com/static/media/man2.fd4e03c36f6cdcd7c949.jpg
+2025-07-17 13:15:04,128 INFO Capturing request: https://www.enableedge.com/static/media/women.161865945bb2dc1aa137.jpg
+2025-07-17 13:15:04,131 INFO Capturing request: https://www.enableedge.com/static/media/man.0d742e9602c0f34f2311.jpg
+2025-07-17 13:15:04,140 INFO Capturing request: https://www.enableedge.com/static/media/workflow.da25cc33cca15f870968.png
+2025-07-17 13:15:04,141 INFO Capturing request: https://www.enableedge.com/static/media/qa-testing.0f83f5e718e5cfb5bcdc.png
+2025-07-17 13:15:04,145 INFO Capturing request: https://www.enableedge.com/static/media/tailored-solution2.5a67fb4c0e214f6c5e5a.jpg
+2025-07-17 13:15:04,147 INFO Capturing request: https://www.enableedge.com/static/media/bug-detected.7a4368d962a8a334b334.webp
+2025-07-17 13:15:04,230 INFO Capturing request: https://www.enableedge.com/static/media/dots-dark.60cd5f3a36a8af5f6bcf.svg
+2025-07-17 13:15:04,285 INFO Capturing response: https://android.clients.google.com/checkin 200 
+2025-07-17 13:15:04,295 INFO Capturing response: https://www.enableedge.com/static/media/man.0d742e9602c0f34f2311.jpg 200 
+2025-07-17 13:15:04,300 INFO Capturing response: https://www.enableedge.com/static/media/man2.fd4e03c36f6cdcd7c949.jpg 200 
+2025-07-17 13:15:04,304 INFO Capturing response: https://www.enableedge.com/static/media/tailored-solution2.5a67fb4c0e214f6c5e5a.jpg 200 
+2025-07-17 13:15:04,309 INFO Capturing request: https://android.clients.google.com/c2dm/register3
+2025-07-17 13:15:04,314 INFO Capturing request: https://android.clients.google.com/c2dm/register3
+2025-07-17 13:15:04,371 INFO Capturing response: https://www.enableedge.com/static/media/workflow.da25cc33cca15f870968.png 200 
+2025-07-17 13:15:04,386 INFO Capturing response: https://www.enableedge.com/static/media/bug-detected.7a4368d962a8a334b334.webp 200 
+2025-07-17 13:15:04,400 INFO Capturing response: https://www.enableedge.com/static/media/dots-dark.60cd5f3a36a8af5f6bcf.svg 200 
+2025-07-17 13:15:04,420 INFO Capturing response: https://android.clients.google.com/c2dm/register3 301 
+2025-07-17 13:15:04,432 INFO Capturing request: https://assets.goodfirms.co/badges/color-badge/software-testing-companies.svg
+2025-07-17 13:15:04,435 INFO Capturing response: https://www.enableedge.com/static/media/women.161865945bb2dc1aa137.jpg 200 
+2025-07-17 13:15:04,560 INFO Capturing response: https://assets.goodfirms.co/badges/color-badge/software-testing-companies.svg 200 
+2025-07-17 13:15:04,662 INFO Capturing request: https://www.enableedge.com/static/media/edge3.24a62b0983fa459eb01d831a4fbf10e7.svg
+2025-07-17 13:15:04,664 INFO Capturing request: https://firebase.googleapis.com/v1alpha/projects/-/apps/1:769451271556:web:381616549ac159be07e9d1/webConfig
+2025-07-17 13:15:04,666 INFO Capturing request: https://www.enableedge.com/static/media/edge2.99cb9ff9e3ae3279c70f3c1bad2f1345.svg
+2025-07-17 13:15:04,668 INFO Capturing request: https://www.enableedge.com/static/media/edge1.d359925e48ce876287ceedebdc3462d2.svg
+2025-07-17 13:15:04,711 INFO Capturing response: https://www.enableedge.com/static/media/edge3.24a62b0983fa459eb01d831a4fbf10e7.svg 200 
+2025-07-17 13:15:04,758 INFO Capturing response: https://firebase.googleapis.com/v1alpha/projects/-/apps/1:769451271556:web:381616549ac159be07e9d1/webConfig 200 
+2025-07-17 13:15:04,762 INFO Capturing response: https://www.enableedge.com/static/media/edge1.d359925e48ce876287ceedebdc3462d2.svg 200 
+2025-07-17 13:15:04,776 INFO Capturing response: https://www.enableedge.com/static/media/qa-testing.0f83f5e718e5cfb5bcdc.png 200 
+2025-07-17 13:15:04,851 INFO Capturing response: https://www.enableedge.com/static/media/edge2.99cb9ff9e3ae3279c70f3c1bad2f1345.svg 200 
+2025-07-17 13:15:04,882 INFO Capturing request: https://www.enableedge.com/static/media/edge4.8028242546305790476c3199499133b6.svg
+2025-07-17 13:15:04,912 INFO Capturing request: https://www.enableedge.com/static/media/edge5.4a89737612bf09bd8ce38540c15a5988.svg
+2025-07-17 13:15:04,928 INFO Capturing request: https://www.enableedge.com/static/media/edge6.01309b76c61aa35d1f7b00b416148c96.svg
+2025-07-17 13:15:04,930 INFO Capturing request: https://www.enableedge.com/static/media/multi-sub.ab9bdf790281bd3fd201.png
+2025-07-17 13:15:04,961 INFO Capturing response: https://www.enableedge.com/static/media/edge5.4a89737612bf09bd8ce38540c15a5988.svg 200 
+2025-07-17 13:15:04,962 INFO Capturing request: https://www.enableedge.com/static/media/single-sub.cd2b2eedcda53af51b8b.png
+2025-07-17 13:15:04,987 INFO Capturing response: https://www.enableedge.com/static/media/edge6.01309b76c61aa35d1f7b00b416148c96.svg 200 
+2025-07-17 13:15:05,038 INFO Capturing response: https://www.enableedge.com/static/media/edge4.8028242546305790476c3199499133b6.svg 200 
+2025-07-17 13:15:05,081 INFO Capturing request: https://www.enableedge.com/static/media/linkedin_logo.06418a3e06c3cd1ab360.png
+2025-07-17 13:15:05,097 INFO Capturing request: https://www.enableedge.com/static/media/x_logo.c1272971537946a82f1e.png
+2025-07-17 13:15:05,160 INFO Capturing request: https://www.enableedge.com/static/media/github_logo.e63ab843ae9ed4dbd3f1.png
+2025-07-17 13:15:05,164 INFO Capturing response: https://www.enableedge.com/static/media/multi-sub.ab9bdf790281bd3fd201.png 200 
+2025-07-17 13:15:05,191 INFO Capturing response: https://www.enableedge.com/static/media/linkedin_logo.06418a3e06c3cd1ab360.png 200 
+2025-07-17 13:15:05,205 INFO Capturing response: https://www.enableedge.com/static/media/single-sub.cd2b2eedcda53af51b8b.png 200 
+2025-07-17 13:15:05,282 INFO Capturing request: https://assets.goodfirms.co/badges/icon/blue-goodfirms-icon.svg
+2025-07-17 13:15:05,315 INFO Capturing response: https://www.enableedge.com/static/media/x_logo.c1272971537946a82f1e.png 200 
+2025-07-17 13:15:05,318 INFO Capturing response: https://www.enableedge.com/static/media/github_logo.e63ab843ae9ed4dbd3f1.png 200 
+2025-07-17 13:15:05,345 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION
+2025-07-17 13:15:05,347 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1745312779&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS
+2025-07-17 13:15:05,570 INFO Capturing request: https://firebaseinstallations.googleapis.com/v1/projects/enable-edge/installations
+2025-07-17 13:15:05,657 INFO Capturing response: https://assets.goodfirms.co/badges/icon/blue-goodfirms-icon.svg 200 
+2025-07-17 13:15:05,752 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1745312779&target=OPTIMIZATION_TARGET_NOTIFICATION_PERMISSION_PREDICTIONS 200 
+2025-07-17 13:15:05,873 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1679317318&target=OPTIMIZATION_TARGET_LANGUAGE_DETECTION 200 
+2025-07-17 13:15:06,105 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY
+2025-07-17 13:15:06,121 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2
+2025-07-17 13:15:06,510 INFO Capturing response: https://firebaseinstallations.googleapis.com/v1/projects/enable-edge/installations 200 
+2025-07-17 13:15:06,776 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1673999601&target=OPTIMIZATION_TARGET_PAGE_VISIBILITY 200 
+2025-07-17 13:15:07,032 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1745311339&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS
+2025-07-17 13:15:07,267 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1745311339&target=OPTIMIZATION_TARGET_GEOLOCATION_PERMISSION_PREDICTIONS 200 
+2025-07-17 13:15:07,310 INFO Capturing request: https://www.youtube.com/embed/6j4fPVkA3EA?si=llcTrXPRM-MRXDZB&controls=0&rel=0&showinfo=0&autoplay=1&loop=1&mute=1
+2025-07-17 13:15:07,454 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=5&target=OPTIMIZATION_TARGET_PAGE_TOPICS_V2 200 
+2025-07-17 13:15:07,485 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST
+2025-07-17 13:15:07,609 INFO Capturing response: https://www.youtube.com/embed/6j4fPVkA3EA?si=llcTrXPRM-MRXDZB&controls=0&rel=0&showinfo=0&autoplay=1&loop=1&mute=1 200 
+2025-07-17 13:15:07,731 INFO Capturing response: https://android.clients.google.com/c2dm/register3 200 
+2025-07-17 13:15:07,745 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/www-embed-player.vflset/www-embed-player.js
+2025-07-17 13:15:07,748 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/base.js
+2025-07-17 13:15:07,749 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/www-player.css
+2025-07-17 13:15:07,839 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1750777447&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING
+2025-07-17 13:15:07,965 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/www-embed-player.vflset/www-embed-player.js 200 
+2025-07-17 13:15:07,999 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/www-player.css 200 
+2025-07-17 13:15:08,161 INFO Capturing request: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2
+2025-07-17 13:15:08,177 INFO Capturing request: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+2025-07-17 13:15:08,197 INFO Capturing response: https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2 200 
+2025-07-17 13:15:08,285 INFO Capturing response: https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2 200 
+2025-07-17 13:15:08,408 INFO Capturing request: https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-3HBDH02SN9
+2025-07-17 13:15:08,535 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/base.js 200 
+2025-07-17 13:15:08,650 INFO Capturing response: https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-3HBDH02SN9 200 
+2025-07-17 13:15:08,856 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1728324084&target=OPTIMIZATION_TARGET_OMNIBOX_ON_DEVICE_TAIL_SUGGEST 200 
+2025-07-17 13:15:08,888 INFO Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-3HBDH02SN9&gtm=45je57f1v9207591157za200&_p=1752738304770&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&_fid=dGwHW6O-QoKl7l3mbRm35k&cid=1578906434.1752738309&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752738308&sct=1&seg=0&dl=https%3A%2F%2Fwww.enableedge.com%2F&dt=EnableEdge%20%7C%20QA%20Services%20%26%20Automation%20%7C%20API%20Consulting&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.origin=firebase&tfd=6311
+2025-07-17 13:15:08,890 INFO Capturing request: https://www.youtube.com/youtubei/v1/player?prettyPrint=false
+2025-07-17 13:15:08,966 INFO Capturing request: https://googleads.g.doubleclick.net/pagead/id
+2025-07-17 13:15:08,997 INFO Capturing request: https://static.doubleclick.net/instream/ad_status.js
+2025-07-17 13:15:09,048 INFO Capturing response: https://googleads.g.doubleclick.net/pagead/id 200 
+2025-07-17 13:15:09,077 INFO Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-3HBDH02SN9&gtm=45je57f1v9207591157za200&_p=1752738304770&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&_fid=dGwHW6O-QoKl7l3mbRm35k&cid=1578906434.1752738309&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752738308&sct=1&seg=0&dl=https%3A%2F%2Fwww.enableedge.com%2F&dt=EnableEdge%20%7C%20QA%20Services%20%26%20Automation%20%7C%20API%20Consulting&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&ep.origin=firebase&tfd=6311 204 
+2025-07-17 13:15:09,090 INFO Capturing request: https://www.google.com/js/th/S0Fg3LdHykpczy1Q5rz8XELbxTIY1A0y-1yI2wCYu_4.js
+2025-07-17 13:15:09,122 INFO Capturing response: https://static.doubleclick.net/instream/ad_status.js 200 
+2025-07-17 13:15:09,139 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1750777447&target=OPTIMIZATION_TARGET_CLIENT_SIDE_PHISHING 200 
+2025-07-17 13:15:09,156 INFO Capturing response: https://www.youtube.com/youtubei/v1/player?prettyPrint=false 200 
+2025-07-17 13:15:09,190 INFO Capturing request: https://www.youtube.com/api/stats/qoe?fmt=243&cpn=0ZnUcpVVqw0FN0bf&el=embedded&ns=yt&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&cl=781308173&seq=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&event=streamingstats&plid=AAY6GzBnJvhtcXIq&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.017:B,0.317:B,0.317:B&cat=streaming&cmt=0.017:0.000,0.317:0.000&vfs=0.317:243:243::r&view=0.317:699:300&bwe=0.317:88474&bat=0.317:0.91:1&vis=0.317:0&bh=0.317:0.000&qclc=ChAwWm5VY3BWVnF3MEZOMGJmEAE
+2025-07-17 13:15:09,212 INFO Capturing request: https://www.youtube.com/youtubei/v1/account/get_setting_values?prettyPrint=false
+2025-07-17 13:15:09,225 INFO Capturing response: https://www.google.com/js/th/S0Fg3LdHykpczy1Q5rz8XELbxTIY1A0y-1yI2wCYu_4.js 200 
+2025-07-17 13:15:09,230 INFO Capturing request: https://www.youtube.com/youtubei/v1/next?prettyPrint=false
+2025-07-17 13:15:09,276 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/embed.js
+2025-07-17 13:15:09,303 INFO Capturing response: https://www.youtube.com/api/stats/qoe?fmt=243&cpn=0ZnUcpVVqw0FN0bf&el=embedded&ns=yt&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&cl=781308173&seq=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&event=streamingstats&plid=AAY6GzBnJvhtcXIq&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=0.000:N,0.017:B,0.317:B,0.317:B&cat=streaming&cmt=0.017:0.000,0.317:0.000&vfs=0.317:243:243::r&view=0.317:699:300&bwe=0.317:88474&bat=0.317:0.91:1&vis=0.317:0&bh=0.317:0.000&qclc=ChAwWm5VY3BWVnF3MEZOMGJmEAE 204 
+2025-07-17 13:15:09,324 INFO Capturing response: https://www.youtube.com/youtubei/v1/account/get_setting_values?prettyPrint=false 200 
+2025-07-17 13:15:09,400 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=0-65978&rn=2&rbuf=0&pot=IggIXQhfYCWiWA==&ump=1&srfvp=1
+2025-07-17 13:15:09,403 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=0-66036&rn=1&rbuf=0&pot=IgjPCc8Lp3FlDA==&ump=1&srfvp=1
+2025-07-17 13:15:09,414 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=1696268326&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING
+2025-07-17 13:15:09,448 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/embed.js 200 
+2025-07-17 13:15:09,511 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=0-66036&rn=1&rbuf=0&pot=IgjPCc8Lp3FlDA==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:09,583 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=0-65978&rn=2&rbuf=0&pot=IggIXQhfYCWiWA==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:09,596 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=65979-131514&rn=3&rbuf=3541&pot=IghAUkBQKCrqVw==&ump=1&srfvp=1
+2025-07-17 13:15:09,646 INFO Capturing request: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION
+2025-07-17 13:15:09,689 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=65979-131514&rn=3&rbuf=3541&pot=IghAUkBQKCrqVw==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:09,702 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=66037-131993&rn=4&rbuf=5491&pot=Igg0RDRGXDyeQQ==&ump=1&srfvp=1
+2025-07-17 13:15:09,715 INFO Capturing response: https://www.youtube.com/youtubei/v1/next?prettyPrint=false 200 
+2025-07-17 13:15:09,723 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=1696268326&target=OPTIMIZATION_TARGET_OMNIBOX_URL_SCORING 200 
+2025-07-17 13:15:09,799 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=66037-131993&rn=4&rbuf=5491&pot=Igg0RDRGXDyeQQ==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:09,816 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=131515-266221&rn=5&rbuf=7082&pot=IgjqluqUgu5Akw==&ump=1&srfvp=1
+2025-07-17 13:15:09,909 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/endscreen.js
+2025-07-17 13:15:09,925 INFO Capturing request: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/annotations_module.js
+2025-07-17 13:15:09,933 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=131515-266221&rn=5&rbuf=7082&pot=IgjqluqUgu5Akw==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:09,945 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=131994-232249&rn=6&rbuf=12636&pot=Ighy7XLvGpXY6A==&ump=1&srfvp=1
+2025-07-17 13:15:10,028 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&mime=video%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=736343&dur=107.300&lmt=1731124194852155&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=530F224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRQIgNDNnIO90SLpfjmvguz6TC_RDOJY8t1Mgju9I9iXzCSoCIQCuG6NGlx1xHZCKOkrdXM7WW36jGvpaJrhlAFvoirlg_g%3D%3D&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=131994-232249&rn=6&rbuf=12636&pot=Ighy7XLvGpXY6A==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:10,089 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/endscreen.js 200 
+2025-07-17 13:15:10,094 INFO Capturing response: https://www.youtube.com/s/player/69b31e11/player_ias.vflset/en_US/annotations_module.js 200 
+2025-07-17 13:15:10,109 INFO Capturing request: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=266222-536520&rn=7&rbuf=14211&pot=IgiSa5Jp-hM4bQ==&ump=1&srfvp=1
+2025-07-17 13:15:10,131 INFO Capturing response: https://optimizationguide-pa.googleapis.com/downloads?name=240731042075&target=OPTIMIZATION_TARGET_SEGMENTATION_COMPOSE_PROMOTION 200 
+2025-07-17 13:15:10,138 INFO Capturing request: https://www.youtube.com/youtubei/v1/log_event?alt=json
+2025-07-17 13:15:10,227 INFO Capturing response: https://rr7---sn-ci5gup-h55d.googlevideo.com/videoplayback?expire=1752759910&ei=Bqp4aKjqMszLssUPvdCj0AU&ip=2401%3A4900%3A8817%3Af7c5%3Ad1af%3A8407%3A90a2%3Afa6&id=o-AB-q8PammBTVCRtSEC4yyfK8DjEWUmBZ4wce9BetzlQS&itag=251&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&met=1752738310%2C&mh=H4&mm=31%2C29&mn=sn-ci5gup-h55d%2Csn-ci5gup-cvhr&ms=au%2Crdu&mv=m&mvi=7&pl=50&rms=au%2Cau&initcwndbps=1850000&bui=AY1jyLP51C7YKp1Hy4ZjL1Jfeumb1zgsSSCQbSZvafxkRgpQ17ii_p0gHAxnCVqUVve-eypgKIZei7dO&spc=l3OVKd42dIT_wltG1sNfqI9LDH1bmmu4OOeuXRvAE7w7E97SJL1tQTFUok_BKyrTcJg&vprv=1&svpuc=1&xtags=drc%3D1&mime=audio%2Fwebm&ns=KghIBKfrYVWrSmktRaxyHJsQ&rqh=1&gir=yes&clen=1942773&dur=107.341&lmt=1731124196583149&mt=1752737856&fvip=1&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sefc=1&txp=5308224&n=inAye4lHqSKPKQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Cns%2Crqh%2Cgir%2Cclen%2Cdur%2Clmt&sig=AJfQdSswRAIgbmRXjmdkdrxoBEjQZ1Hkp14vnXlyJMxkqLF-ihSG3ioCIDNW3DRZVfi8DCf4jGrGcKjihDeRqk-EaxHkfyyuxEGG&lsparams=met%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgFsjWKNK8uvS6q-ojexHOnhzMHrZxsfKcWmYmO4GVKbACIQDY5JNNLkTtq2GMCAo_LUsZkv1TQJNmCeTFFg46MAgzcA%3D%3D&alr=yes&cpn=0ZnUcpVVqw0FN0bf&cver=1.20250709.21.00&range=266222-536520&rn=7&rbuf=14211&pot=IgiSa5Jp-hM4bQ==&ump=1&srfvp=1 200 OK
+2025-07-17 13:15:10,237 INFO Capturing request: https://www.youtube.com/api/stats/playback?ns=yt&el=embedded&cpn=0ZnUcpVVqw0FN0bf&ver=2&cmt=0.217&fmt=243&fs=0&rt=1.256&euri=https%3A%2F%2Fwww.enableedge.com%2F&lact=1301&cl=781308173&mos=1&volume=100&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&epm=1&hl=en_US&cr=IN&len=108&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&rtn=11&afmt=251&size=699%3A300&inview=0&muted=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&plid=AAY6GzBnJvhtcXIq&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6j4fPVkA3EA%3Fsi%3DllcTrXPRM-MRXDZB%26controls%3D0%26rel%3D0%26showinfo%3D0%26autoplay%3D1%26loop%3D1%26mute%3D1&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBSHFpSlRLWlhOaEFnRnplUVRjanJlX2RUcmJETEtZM240VnU5UHcwX2pfUnFhNUhIQWJXQUZVQTZSUzQzMnJsdnJRbkhBSjkwMzBMb0tWMmtjblNCQkgtYXRjZ1c4VFlVdFBraDNjQmtLT1dOUmlJMk9rUnJDU21XYmc4VUJvOTdpY1llZDFscFhz
+2025-07-17 13:15:10,254 INFO Capturing request: https://www.youtube.com/ptracking?html5=1&video_id=6j4fPVkA3EA&cpn=0ZnUcpVVqw0FN0bf&ei=Bqp4aKjqMszLssUPvdCj0AU&ptk=youtube_none&pltype=contentugc
+2025-07-17 13:15:10,263 INFO Capturing response: https://www.youtube.com/youtubei/v1/log_event?alt=json 200 
+2025-07-17 13:15:10,445 INFO Capturing response: https://www.youtube.com/api/stats/playback?ns=yt&el=embedded&cpn=0ZnUcpVVqw0FN0bf&ver=2&cmt=0.217&fmt=243&fs=0&rt=1.256&euri=https%3A%2F%2Fwww.enableedge.com%2F&lact=1301&cl=781308173&mos=1&volume=100&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&epm=1&hl=en_US&cr=IN&len=108&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&rtn=11&afmt=251&size=699%3A300&inview=0&muted=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&plid=AAY6GzBnJvhtcXIq&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2F6j4fPVkA3EA%3Fsi%3DllcTrXPRM-MRXDZB%26controls%3D0%26rel%3D0%26showinfo%3D0%26autoplay%3D1%26loop%3D1%26mute%3D1&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBSHFpSlRLWlhOaEFnRnplUVRjanJlX2RUcmJETEtZM240VnU5UHcwX2pfUnFhNUhIQWJXQUZVQTZSUzQzMnJsdnJRbkhBSjkwMzBMb0tWMmtjblNCQkgtYXRjZ1c4VFlVdFBraDNjQmtLT1dOUmlJMk9rUnJDU21XYmc4VUJvOTdpY1llZDFscFhz 204 
+2025-07-17 13:15:10,474 INFO Capturing response: https://www.youtube.com/ptracking?html5=1&video_id=6j4fPVkA3EA&cpn=0ZnUcpVVqw0FN0bf&ei=Bqp4aKjqMszLssUPvdCj0AU&ptk=youtube_none&pltype=contentugc 204 
+2025-07-17 13:15:12,189 INFO Capturing request: https://yt3.ggpht.com/h1uwUJtx68JD8TKEGi9ndTz52hN_7afyO0bZ6kbBWUVWFvFLvCCv_gdss6M4Vm39saXy4vYI=s68-c-k-c0x00ffffff-no-rj
+2025-07-17 13:15:12,204 INFO Capturing request: https://yt3.ggpht.com/h1uwUJtx68JD8TKEGi9ndTz52hN_7afyO0bZ6kbBWUVWFvFLvCCv_gdss6M4Vm39saXy4vYI=s88-c-k-c0x00ffffff-no-rj
+2025-07-17 13:15:12,236 INFO Capturing response: https://yt3.ggpht.com/h1uwUJtx68JD8TKEGi9ndTz52hN_7afyO0bZ6kbBWUVWFvFLvCCv_gdss6M4Vm39saXy4vYI=s88-c-k-c0x00ffffff-no-rj 200 
+2025-07-17 13:15:12,260 INFO Capturing request: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create
+2025-07-17 13:15:12,331 INFO Capturing response: https://yt3.ggpht.com/h1uwUJtx68JD8TKEGi9ndTz52hN_7afyO0bZ6kbBWUVWFvFLvCCv_gdss6M4Vm39saXy4vYI=s68-c-k-c0x00ffffff-no-rj 200 
+2025-07-17 13:15:12,358 INFO Capturing request: https://www.youtube.com/generate_204?UsgsFA
+2025-07-17 13:15:12,483 INFO Capturing response: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create 200 
+2025-07-17 13:15:12,517 INFO Capturing response: https://www.youtube.com/generate_204?UsgsFA 204 
+2025-07-17 13:15:12,714 INFO Capturing request: https://www.enableedge.com/favicon.ico
+2025-07-17 13:15:12,742 INFO Capturing request: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT
+2025-07-17 13:15:12,853 INFO Capturing response: https://www.enableedge.com/favicon.ico 200 
+2025-07-17 13:15:12,961 INFO Capturing response: https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT 200 
+2025-07-17 13:15:13,983 INFO Capturing request: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=0ZnUcpVVqw0FN0bf&ver=2&cmt=4.066&fmt=243&fs=0&rt=5.103&euri=https%3A%2F%2Fwww.enableedge.com%2F&lact=5149&cl=781308173&mos=1&volume=100&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&epm=1&hl=en_US&cr=IN&len=108&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&afmt=251&muted=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&plid=AAY6GzBnJvhtcXIq&vm=CAEQABgEOjJBSHFpSlRLWlhOaEFnRnplUVRjanJlX2RUcmJETEtZM240VnU5UHcwX2pfUnFhNUhIQWJXQUZVQTZSUzQzMnJsdnJRbkhBSjkwMzBMb0tWMmtjblNCQkgtYXRjZ1c4VFlVdFBraDNjQmtLT1dOUmlJMk9rUnJDU21XYmc4VUJvOTdpY1llZDFscFhz
+2025-07-17 13:15:14,092 INFO Capturing response: https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=0ZnUcpVVqw0FN0bf&ver=2&cmt=4.066&fmt=243&fs=0&rt=5.103&euri=https%3A%2F%2Fwww.enableedge.com%2F&lact=5149&cl=781308173&mos=1&volume=100&cbr=HeadlessChrome&cbrver=138.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20250709.21.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&epm=1&hl=en_US&cr=IN&len=108&fexp=v1%2C24004644%2C562043%2C26443548%2C53408%2C34656%2C106030%2C18644%2C14869%2C75925%2C26895%2C1842%2C7410%2C3479%2C13030%2C23206%2C7465%2C7714%2C2%2C20220%2C13975%2C17624%2C2796%2C13392%2C7089%2C3725%2C591%2C6109%2C4324%2C3804%2C1592%2C5385%2C5658%2C4860%2C3433%2C841%2C1970%2C482%2C1416%2C307%2C1864%2C131%2C293%2C2707%2C1097%2C1671%2C315%2C1323%2C1268%2C655%2C2039%2C6%2C7%2C3479%2C4809&afmt=251&muted=1&docid=6j4fPVkA3EA&ei=Bqp4aKjqMszLssUPvdCj0AU&plid=AAY6GzBnJvhtcXIq&vm=CAEQABgEOjJBSHFpSlRLWlhOaEFnRnplUVRjanJlX2RUcmJETEtZM240VnU5UHcwX2pfUnFhNUhIQWJXQUZVQTZSUzQzMnJsdnJRbkhBSjkwMzBMb0tWMmtjblNCQkgtYXRjZ1c4VFlVdFBraDNjQmtLT1dOUmlJMk9rUnJDU21XYmc4VUJvOTdpY1llZDFscFhz 204 
+2025-07-17 13:15:14,762 INFO Finished https://www.enableedge.com in 10167 ms
+2025-07-17 13:15:14,762 INFO Visiting https://www.guru99.com
+2025-07-17 13:15:14,901 INFO Capturing request: https://www.youtube.com/youtubei/v1/log_event?alt=json
+2025-07-17 13:15:14,983 INFO Capturing response: https://www.youtube.com/youtubei/v1/log_event?alt=json 200 
+2025-07-17 13:15:15,084 INFO Capturing request: https://www.guru99.com/
+2025-07-17 13:15:15,239 INFO Capturing response: https://www.guru99.com/ 200 
+2025-07-17 13:15:15,257 INFO Capturing request: https://www.youtube.com/youtubei/v1/log_event?alt=json
+2025-07-17 13:15:15,382 INFO Capturing request: https://www.guru99.com/wp-content/plugins/contextual-related-posts-pro/css/rounded-thumbs.min.css
+2025-07-17 13:15:15,391 INFO Capturing request: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css
+2025-07-17 13:15:15,399 INFO Capturing request: https://www.guru99.com/wp-includes/css/dist/block-library/style.min.css
+2025-07-17 13:15:15,413 INFO Capturing response: https://www.youtube.com/youtubei/v1/log_event?alt=json 200 
+2025-07-17 13:15:15,416 INFO Capturing request: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css
+2025-07-17 13:15:15,419 INFO Capturing request: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs.css
+2025-07-17 13:15:15,420 INFO Capturing request: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs2.css
+2025-07-17 13:15:15,425 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/header.min.css
+2025-07-17 13:15:15,428 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/menu-addon.css
+2025-07-17 13:15:15,430 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/footer.min.css
+2025-07-17 13:15:15,431 INFO Capturing request: https://www.google-analytics.com/g/collect?v=2&tid=G-3HBDH02SN9&gtm=45je57f1v9207591157za200&_p=1752738304770&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&_fid=dGwHW6O-QoKl7l3mbRm35k&cid=1578906434.1752738309&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&sid=1752738308&sct=1&seg=0&dl=https%3A%2F%2Fwww.enableedge.com%2F&dt=EnableEdge%20%7C%20QA%20Services%20%26%20Automation%20%7C%20API%20Consulting&en=user_engagement&ep.origin=firebase&_et=6544&tfd=12878
+2025-07-17 13:15:15,433 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/simplelightbox.min.css
+2025-07-17 13:15:15,435 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css
+2025-07-17 13:15:15,436 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/global.min.css
+2025-07-17 13:15:15,437 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/css/kt-social.css
+2025-07-17 13:15:15,440 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/content.min.css
+2025-07-17 13:15:15,444 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-accordion.css
+2025-07-17 13:15:15,446 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-icon.css
+2025-07-17 13:15:15,448 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css
+2025-07-17 13:15:15,450 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/dist/style-blocks-slider.css
+2025-07-17 13:15:15,451 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/css/rankmath.min.css
+2025-07-17 13:15:15,453 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css
+2025-07-17 13:15:15,456 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css
+2025-07-17 13:15:15,462 INFO Capturing request: https://play.google.com/log?hasfast=true&authuser=0&format=json
+2025-07-17 13:15:15,465 INFO Capturing request: https://www.guru99.com/wp-content/fonts/source-sans-pro/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+2025-07-17 13:15:15,468 INFO Capturing request: https://www.guru99.com/wp-content/fonts/9cb3802b20c55531cc9bd4ef073b5133.css
+2025-07-17 13:15:15,470 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/css/kadence-splide.min.css
+2025-07-17 13:15:15,473 INFO Capturing request: https://play.google.com/log?hasfast=true&authuser=0&format=json
+2025-07-17 13:15:15,477 INFO Capturing request: https://play.google.com/log?hasfast=true&authuser=0&format=json
+2025-07-17 13:15:15,479 INFO Capturing request: https://play.google.com/log?hasfast=true&authuser=0&format=json
+2025-07-17 13:15:15,482 INFO Capturing request: https://play.google.com/log?hasfast=true&authuser=0&format=json
+2025-07-17 13:15:15,491 INFO Capturing response: https://www.guru99.com/wp-content/plugins/contextual-related-posts-pro/css/rounded-thumbs.min.css 200 
+2025-07-17 13:15:15,498 INFO Capturing response: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-live.min.css 200 
+2025-07-17 13:15:15,506 INFO Capturing response: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs.css 200 
+2025-07-17 13:15:15,543 INFO Capturing response: https://www.guru99.com/wp-content/plugins/lasso/admin/assets/css/lasso-table-frontend.min.css 200 
+2025-07-17 13:15:15,547 INFO Capturing response: https://www.guru99.com/wp-includes/css/dist/block-library/style.min.css 200 
+2025-07-17 13:15:15,551 INFO Capturing response: https://www.guru99.com/wp-content/plugins/wp-google-search/wgs2.css 200 
+2025-07-17 13:15:15,567 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/global.min.css 200 
+2025-07-17 13:15:15,570 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/css/kt-social.css 200 
+2025-07-17 13:15:15,571 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/menu-addon.css 200 
+2025-07-17 13:15:15,577 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/header.min.css 200 
+2025-07-17 13:15:15,583 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-navigation.css 200 
+2025-07-17 13:15:15,587 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-rowlayout.css 200 
+2025-07-17 13:15:15,590 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-accordion.css 200 
+2025-07-17 13:15:15,593 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-column.css 200 
+2025-07-17 13:15:15,597 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/dist/style-blocks-slider.css 200 
+2025-07-17 13:15:15,605 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-icon.css 200 
+2025-07-17 13:15:15,609 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/simplelightbox.min.css 200 
+2025-07-17 13:15:15,614 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/footer.min.css 200 
+2025-07-17 13:15:15,617 INFO Capturing response: https://www.google-analytics.com/g/collect?v=2&tid=G-3HBDH02SN9&gtm=45je57f1v9207591157za200&_p=1752738304770&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&_fid=dGwHW6O-QoKl7l3mbRm35k&cid=1578906434.1752738309&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&sid=1752738308&sct=1&seg=0&dl=https%3A%2F%2Fwww.enableedge.com%2F&dt=EnableEdge%20%7C%20QA%20Services%20%26%20Automation%20%7C%20API%20Consulting&en=user_engagement&ep.origin=firebase&_et=6544&tfd=12878 204 
+2025-07-17 13:15:15,620 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/rankmath.min.css 200 
+2025-07-17 13:15:15,625 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/css/kadence-splide.min.css 200 
+2025-07-17 13:15:15,628 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/css/content.min.css 200 
+2025-07-17 13:15:15,630 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/dist/style-blocks-infobox.css 200 
+2025-07-17 13:15:15,633 INFO Capturing response: https://www.guru99.com/wp-content/fonts/9cb3802b20c55531cc9bd4ef073b5133.css 200 
+2025-07-17 13:15:15,637 INFO Capturing response: https://www.guru99.com/wp-content/fonts/source-sans-pro/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2 200 
+2025-07-17 13:15:15,651 INFO Capturing response: https://play.google.com/log?hasfast=true&authuser=0&format=json 200 
+2025-07-17 13:15:15,659 INFO Capturing response: https://play.google.com/log?hasfast=true&authuser=0&format=json 200 
+2025-07-17 13:15:15,668 INFO Capturing response: https://play.google.com/log?hasfast=true&authuser=0&format=json 200 
+2025-07-17 13:15:15,675 INFO Capturing response: https://play.google.com/log?hasfast=true&authuser=0&format=json 200 
+2025-07-17 13:15:15,681 INFO Capturing response: https://play.google.com/log?hasfast=true&authuser=0&format=json 200 
+2025-07-17 13:15:15,753 INFO Capturing request: https://www.guru99.com/images/guru99-logo-v1.png
+2025-07-17 13:15:15,787 INFO Capturing response: https://www.guru99.com/images/guru99-logo-v1.png 200 
+2025-07-17 13:15:15,802 INFO Capturing request: https://www.guru99.com/images/onpay-logo-v1-1.png
+2025-07-17 13:15:15,804 INFO Capturing request: https://www.guru99.com/wp-includes/js/jquery/jquery.min.js
+2025-07-17 13:15:15,866 INFO Capturing request: https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png
+2025-07-17 13:15:15,936 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/js/kt-social-min.js
+2025-07-17 13:15:15,939 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-navigation-block.min.js
+2025-07-17 13:15:15,941 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kt-accordion.min.js
+2025-07-17 13:15:15,946 INFO Capturing response: https://www.guru99.com/images/onpay-logo-v1-1.png 200 
+2025-07-17 13:15:15,948 INFO Capturing response: https://www.guru99.com/wp-includes/js/jquery/jquery.min.js 200 
+2025-07-17 13:15:15,979 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-simple-share/assets/js/kt-social-min.js 200 
+2025-07-17 13:15:16,012 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kb-navigation-block.min.js 200 
+2025-07-17 13:15:16,016 INFO Capturing response: https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png 200 
+2025-07-17 13:15:16,065 INFO Capturing request: https://www.guru99.com/images/software-review-home-v5.png
+2025-07-17 13:15:16,066 INFO Capturing request: https://www.guru99.com/images/book-home-v5.png
+2025-07-17 13:15:16,067 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/kadence-mega-menu.min.js
+2025-07-17 13:15:16,069 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/kb-splide-slider-init.min.js
+2025-07-17 13:15:16,081 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks/includes/assets/js/kt-accordion.min.js 200 
+2025-07-17 13:15:16,095 INFO Capturing request: https://www.guru99.com/images/liveproject-home-v5.png
+2025-07-17 13:15:16,106 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/kb-splide-slider-init.min.js 200 
+2025-07-17 13:15:16,128 INFO Capturing request: https://www.guru99.com/images/ninjaone-logo-v2.png
+2025-07-17 13:15:16,205 INFO Capturing response: https://www.guru99.com/images/software-review-home-v5.png 200 
+2025-07-17 13:15:16,207 INFO Capturing response: https://www.guru99.com/images/book-home-v5.png 200 
+2025-07-17 13:15:16,220 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-pro/dist/mega-menu/kadence-mega-menu.min.js 200 
+2025-07-17 13:15:16,234 INFO Capturing response: https://www.guru99.com/images/liveproject-home-v5.png 200 
+2025-07-17 13:15:16,267 INFO Capturing response: https://www.guru99.com/images/ninjaone-logo-v2.png 200 
+2025-07-17 13:15:16,328 INFO Capturing request: https://www.guru99.com/images/screenshots/remote-pc-logo-v12.png
+2025-07-17 13:15:16,344 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/simplelightbox.min.js
+2025-07-17 13:15:16,346 INFO Capturing request: https://www.guru99.com/images/slicktext-logo-v1-1.png
+2025-07-17 13:15:16,348 INFO Capturing request: https://www.guru99.com/images/omnisend-logo-v1.png
+2025-07-17 13:15:16,350 INFO Capturing request: https://www.guru99.com/images/activtrack-logo-v2.png
+2025-07-17 13:15:16,359 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/lightbox-init.min.js
+2025-07-17 13:15:16,365 INFO Capturing response: https://www.guru99.com/images/screenshots/remote-pc-logo-v12.png 200 
+2025-07-17 13:15:16,389 INFO Capturing request: https://www.guru99.com/wp-content/themes/kadence/assets/js/navigation.min.js
+2025-07-17 13:15:16,399 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/simplelightbox.min.js 200 
+2025-07-17 13:15:16,402 INFO Capturing response: https://www.guru99.com/images/omnisend-logo-v1.png 200 
+2025-07-17 13:15:16,407 INFO Capturing request: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q
+2025-07-17 13:15:16,422 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/lightbox-init.min.js 200 
+2025-07-17 13:15:16,479 INFO Capturing request: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/splide.min.js
+2025-07-17 13:15:16,497 INFO Capturing response: https://www.guru99.com/images/slicktext-logo-v1-1.png 200 
+2025-07-17 13:15:16,512 INFO Capturing response: https://www.guru99.com/images/activtrack-logo-v2.png 200 
+2025-07-17 13:15:16,525 INFO Capturing request: https://www.guru99.com/wp-content/plugins/gtranslate/js/popup.js
+2025-07-17 13:15:16,541 INFO Capturing request: https://www.googletagmanager.com/gtm.js?id=GTM-WSSCM7XJ
+2025-07-17 13:15:16,558 INFO Capturing response: https://www.guru99.com/wp-content/themes/kadence/assets/js/navigation.min.js 200 
+2025-07-17 13:15:16,587 INFO Capturing request: https://www.clarity.ms/tag/oftkirctdr
+2025-07-17 13:15:16,633 INFO Capturing response: https://www.guru99.com/wp-content/plugins/kadence-blocks-pro/includes/assets/js/splide.min.js 200 
+2025-07-17 13:15:16,638 INFO Capturing response: https://www.clarity.ms/tag/oftkirctdr 200 
+2025-07-17 13:15:16,663 INFO Capturing response: https://www.googletagmanager.com/gtag/js?id=G-30SEBTJ46Q 200 
+2025-07-17 13:15:16,678 INFO Capturing request: https://get.geojs.io/v1/ip/geo.js?callback=jQuery37101566152947516547_1752738315969&_=1752738315970
+2025-07-17 13:15:16,686 INFO Capturing response: https://www.guru99.com/wp-content/plugins/gtranslate/js/popup.js 200 
+2025-07-17 13:15:16,694 INFO Capturing request: https://cse.google.com/cse.js?cx=005996710952209167719:cqkoqomazkc
+2025-07-17 13:15:16,755 INFO Capturing request: https://www.clarity.ms/s/0.8.19/clarity.js
+2025-07-17 13:15:16,791 INFO Capturing response: https://www.clarity.ms/s/0.8.19/clarity.js 200 
+2025-07-17 13:15:16,817 INFO Capturing request: https://cdn.convertbox.com/convertbox/js/embed.js
+2025-07-17 13:15:16,833 INFO Capturing response: https://cse.google.com/cse.js?cx=005996710952209167719:cqkoqomazkc 200 
+2025-07-17 13:15:16,837 INFO Capturing request: https://www.guru99.com/wp-content/plugins/gtranslate/flags/24/en.png
+2025-07-17 13:15:16,872 INFO Capturing response: https://www.guru99.com/wp-content/plugins/gtranslate/flags/24/en.png 200 
+2025-07-17 13:15:16,881 INFO Capturing response: https://www.googletagmanager.com/gtm.js?id=GTM-WSSCM7XJ 200 
+2025-07-17 13:15:16,942 INFO Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnE02vUqT5sRBIFDRM0Cs4h-K139Wd5ReI=?alt=proto
+2025-07-17 13:15:16,959 INFO Capturing response: https://cdn.convertbox.com/convertbox/js/embed.js 200 
+2025-07-17 13:15:17,049 INFO Capturing request: https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-30SEBTJ46Q&cid=2141892158.1752738317&gtm=45je57f1v888093076za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&z=1468589562
+2025-07-17 13:15:17,140 INFO Capturing request: https://www.google.com/cse/static/element/197b0e284b1b1f14/default+en.css
+2025-07-17 13:15:17,150 INFO Capturing request: https://www.google.com/cse/static/style/look/v4/minimalist.css
+2025-07-17 13:15:17,156 INFO Capturing request: https://www.google.com/cse/static/element/197b0e284b1b1f14/cse_element__en.js?usqp=CAM%3D
+2025-07-17 13:15:17,170 INFO Capturing response: https://www.google.com/cse/static/style/look/v4/minimalist.css 200 
+2025-07-17 13:15:17,181 INFO Capturing response: https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-30SEBTJ46Q&cid=2141892158.1752738317&gtm=45je57f1v888093076za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&z=1468589562 200 
+2025-07-17 13:15:17,188 INFO Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnE02vUqT5sRBIFDRM0Cs4h-K139Wd5ReI=?alt=proto 200 
+2025-07-17 13:15:17,373 INFO Capturing response: https://www.google.com/cse/static/element/197b0e284b1b1f14/default+en.css 200 
+2025-07-17 13:15:17,480 INFO Capturing response: https://www.google.com/cse/static/element/197b0e284b1b1f14/cse_element__en.js?usqp=CAM%3D 200 
+2025-07-17 13:15:17,790 INFO Capturing request: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnqR--DLUL5cBIFDWdns_4hc36HjqtDloo=?alt=proto
+2025-07-17 13:15:17,919 INFO Capturing response: https://content-autofill.googleapis.com/v1/pages/ChVDaHJvbWUvMTM4LjAuNzIwNC4xMDESGQnqR--DLUL5cBIFDWdns_4hc36HjqtDloo=?alt=proto 200 
+2025-07-17 13:15:20,100 INFO Capturing request: https://analytics.google.com/g/collect?v=2&tid=G-30SEBTJ46Q&gtm=45je57f1v888093076za200&_p=1752738315636&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&cid=2141892158.1752738317&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752738316&sct=1&seg=0&dl=https%3A%2F%2Fwww.guru99.com%2F&dt=Guru99%3A%20Free%20Online%20Tutorials%20and%20Business%20Software%20Reviews&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1977
+2025-07-17 13:15:20,910 INFO Capturing request: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-30SEBTJ46Q&cid=2141892158.1752738317&gtm=45je57f1v888093076za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143
+2025-07-17 13:15:20,993 INFO Capturing response: https://analytics.google.com/g/collect?v=2&tid=G-30SEBTJ46Q&gtm=45je57f1v888093076za200&_p=1752738315636&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&cid=2141892158.1752738317&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752738316&sct=1&seg=0&dl=https%3A%2F%2Fwww.guru99.com%2F&dt=Guru99%3A%20Free%20Online%20Tutorials%20and%20Business%20Software%20Reviews&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1977 204 
+2025-07-17 13:15:21,675 INFO Capturing response: https://stats.g.doubleclick.net/g/collect?v=2&tid=G-30SEBTJ46Q&cid=2141892158.1752738317&gtm=45je57f1v888093076za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143 204 
+2025-07-17 13:15:24,520 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:30,165 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:32,785 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:32,810 INFO Capturing request: https://app.convertbox.com/embed/user?uuid=009be0ed-66aa-4d6f-a61b-534dc59920bf
+2025-07-17 13:15:32,825 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:32,852 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:32,935 INFO Capturing request: https://android.clients.google.com/c2dm/register3
+2025-07-17 13:15:33,008 INFO Capturing request: https://www.google.com/cse/static/css/v2/clear.png
+2025-07-17 13:15:33,027 INFO Capturing request: https://cse.google.com/adsense/search/async-ads.js
+2025-07-17 13:15:33,033 INFO Capturing request: https://www.google.com/cse/static/images/1x/en/branding.png
+2025-07-17 13:15:33,043 INFO Capturing request: https://clients1.google.com/generate_204
+2025-07-17 13:15:33,052 INFO Capturing response: https://www.google.com/cse/static/css/v2/clear.png 200 
+2025-07-17 13:15:33,063 INFO Capturing response: https://android.clients.google.com/c2dm/register3 301 
+2025-07-17 13:15:33,070 INFO Capturing response: https://www.google.com/cse/static/images/1x/en/branding.png 200 
+2025-07-17 13:15:33,130 INFO Capturing response: https://app.convertbox.com/embed/user?uuid=009be0ed-66aa-4d6f-a61b-534dc59920bf 200 OK
+2025-07-17 13:15:33,136 INFO Capturing request: https://app.convertbox.com/mix-manifest.json?1752738333
+2025-07-17 13:15:33,184 INFO Capturing response: https://clients1.google.com/generate_204 204 
+2025-07-17 13:15:33,233 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:33,245 INFO Capturing response: https://cse.google.com/adsense/search/async-ads.js 200 
+2025-07-17 13:15:33,304 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:33,313 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:33,404 INFO Capturing response: https://app.convertbox.com/mix-manifest.json?1752738333 200 OK
+2025-07-17 13:15:33,425 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:33,595 INFO Capturing request: https://polyfill-fastly.io/v3/polyfill.min.js?flags=gated%7Calways&rum=true&features=Array.prototype.entries%2CArray.prototype.forEach%2CArray.prototype.includes%2CNodeList.prototype.forEach%2CObject.values%2CPromise%2CString.prototype.includes%2CSymbol%2CSymbol.iterator%2CObject.assign%2CArray.from%2CArray.isArray%2CArray.of%2CArray.prototype.findIndex%2CArray.prototype.indexOf%2CArray.prototype.keys%2CArray.prototype.values%2CString.prototype.%40%40iterator%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.filter%2CObject.defineProperty%2CObject.defineProperties%2CObject.entries%2CObject.keys
+2025-07-17 13:15:33,748 INFO Capturing response: https://polyfill-fastly.io/v3/polyfill.min.js?flags=gated%7Calways&rum=true&features=Array.prototype.entries%2CArray.prototype.forEach%2CArray.prototype.includes%2CNodeList.prototype.forEach%2CObject.values%2CPromise%2CString.prototype.includes%2CSymbol%2CSymbol.iterator%2CObject.assign%2CArray.from%2CArray.isArray%2CArray.of%2CArray.prototype.findIndex%2CArray.prototype.indexOf%2CArray.prototype.keys%2CArray.prototype.values%2CString.prototype.%40%40iterator%2CArray.prototype.%40%40iterator%2CArray.prototype.find%2CArray.prototype.filter%2CObject.defineProperty%2CObject.defineProperties%2CObject.entries%2CObject.keys 200 
+2025-07-17 13:15:33,978 INFO Capturing request: https://cdn.convertbox.com//convertbox/js/embed-core.js?id=0902102ab1aded5459a7
+2025-07-17 13:15:34,195 INFO Capturing response: https://cdn.convertbox.com//convertbox/js/embed-core.js?id=0902102ab1aded5459a7 200 
+2025-07-17 13:15:34,280 INFO Capturing request: https://app.convertbox.com/embed/box
+2025-07-17 13:15:34,381 INFO Capturing request: https://cdn.convertbox.com//static/css/bars-preview.css?id=160301bca992a17e8cd1
+2025-07-17 13:15:34,435 INFO Capturing response: https://cdn.convertbox.com//static/css/bars-preview.css?id=160301bca992a17e8cd1 200 
+2025-07-17 13:15:34,563 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:34,675 INFO Capturing request: https://fonts.bunny.net/css?family=Mali|Caveat|Lato|Lora|Montserrat|Open+Sans|Oswald|Playfair+Display|Quicksand|Raleway|Roboto|Ubuntu
+2025-07-17 13:15:34,710 INFO Capturing response: https://app.convertbox.com/embed/box 200 OK
+2025-07-17 13:15:34,845 INFO Capturing response: https://fonts.bunny.net/css?family=Mali|Caveat|Lato|Lora|Montserrat|Open+Sans|Oswald|Playfair+Display|Quicksand|Raleway|Roboto|Ubuntu 200 
+2025-07-17 13:15:34,893 WARNING Page load timed out after 20s: https://www.guru99.com
+2025-07-17 13:15:37,295 INFO Capturing request: https://o.clarity.ms/collect
+2025-07-17 13:15:37,511 INFO Capturing response: https://o.clarity.ms/collect 204 No Content
+2025-07-17 13:15:38,022 INFO Finished https://www.guru99.com in 20011 ms
+2025-07-17 13:15:38,053 INFO Reports saved to reports/smart_report.json and reports/smart_report.html

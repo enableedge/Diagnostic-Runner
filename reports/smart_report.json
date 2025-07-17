@@ -1,0 +1,891 @@
+{
+  "pages": {
+    "https://www.automationexercise.com": {
+      "performance": {
+        "page_load_time_ms": 15673
+      },
+      "console_issues": {
+        "errors": [
+          "https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS.",
+          "https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS.",
+          "https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS."
+        ],
+        "warnings": [],
+        "deprecations": []
+      },
+      "api_issues": {
+        "errors": [],
+        "timeouts": [],
+        "slow_responses_ms": [
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl2.jpg",
+            "duration_ms": 5065
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl3.jpg",
+            "duration_ms": 6424
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/11",
+            "duration_ms": 9361
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/4",
+            "duration_ms": 5647
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/13",
+            "duration_ms": 8610
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/7",
+            "duration_ms": 5764
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/6",
+            "duration_ms": 5745
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/18",
+            "duration_ms": 3868
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/20",
+            "duration_ms": 4279
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/14",
+            "duration_ms": 3969
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/15",
+            "duration_ms": 5951
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/29",
+            "duration_ms": 10178
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/22",
+            "duration_ms": 5938
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/21",
+            "duration_ms": 9223
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/24",
+            "duration_ms": 8674
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/41",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/33",
+            "duration_ms": 4666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/37",
+            "duration_ms": 8248
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/42",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/39",
+            "duration_ms": 6336
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/40",
+            "duration_ms": 8666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/38",
+            "duration_ms": 3505
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/35",
+            "duration_ms": 5280
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/31",
+            "duration_ms": 7808
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/43",
+            "duration_ms": 7592
+          }
+        ]
+      },
+      "resource_issues": {
+        "missing_or_404": [],
+        "slow_resources_ms": [
+          {
+            "duration": 5215,
+            "name": "https://www.automationexercise.com/static/images/home/girl2.jpg",
+            "size": 144294,
+            "type": "img"
+          },
+          {
+            "duration": 6583,
+            "name": "https://www.automationexercise.com/static/images/home/girl3.jpg",
+            "size": 124440,
+            "type": "img"
+          },
+          {
+            "duration": 5831,
+            "name": "https://www.automationexercise.com/get_product_picture/4",
+            "size": 29234,
+            "type": "img"
+          },
+          {
+            "duration": 5942,
+            "name": "https://www.automationexercise.com/get_product_picture/6",
+            "size": 38263,
+            "type": "img"
+          },
+          {
+            "duration": 5953,
+            "name": "https://www.automationexercise.com/get_product_picture/7",
+            "size": 103706,
+            "type": "img"
+          },
+          {
+            "duration": 2147,
+            "name": "https://www.automationexercise.com/get_product_picture/8",
+            "size": 19613,
+            "type": "img"
+          },
+          {
+            "duration": 8903,
+            "name": "https://www.automationexercise.com/get_product_picture/13",
+            "size": 135989,
+            "type": "img"
+          },
+          {
+            "duration": 9549,
+            "name": "https://www.automationexercise.com/get_product_picture/11",
+            "size": 247775,
+            "type": "img"
+          },
+          {
+            "duration": 2153,
+            "name": "https://www.automationexercise.com/get_product_picture/19",
+            "size": 12902,
+            "type": "img"
+          },
+          {
+            "duration": 2156,
+            "name": "https://www.automationexercise.com/get_product_picture/16",
+            "size": 24576,
+            "type": "img"
+          },
+          {
+            "duration": 4063,
+            "name": "https://www.automationexercise.com/get_product_picture/18",
+            "size": 13579,
+            "type": "img"
+          },
+          {
+            "duration": 4174,
+            "name": "https://www.automationexercise.com/get_product_picture/14",
+            "size": 16694,
+            "type": "img"
+          },
+          {
+            "duration": 4478,
+            "name": "https://www.automationexercise.com/get_product_picture/20",
+            "size": 33014,
+            "type": "img"
+          },
+          {
+            "duration": 6160,
+            "name": "https://www.automationexercise.com/get_product_picture/15",
+            "size": 42742,
+            "type": "img"
+          },
+          {
+            "duration": 2576,
+            "name": "https://www.automationexercise.com/get_product_picture/23",
+            "size": 11124,
+            "type": "img"
+          },
+          {
+            "duration": 6158,
+            "name": "https://www.automationexercise.com/get_product_picture/22",
+            "size": 73861,
+            "type": "img"
+          },
+          {
+            "duration": 9450,
+            "name": "https://www.automationexercise.com/get_product_picture/21",
+            "size": 198488,
+            "type": "img"
+          },
+          {
+            "duration": 2469,
+            "name": "https://www.automationexercise.com/get_product_picture/28",
+            "size": 30400,
+            "type": "img"
+          },
+          {
+            "duration": 8912,
+            "name": "https://www.automationexercise.com/get_product_picture/24",
+            "size": 153319,
+            "type": "img"
+          },
+          {
+            "duration": 2678,
+            "name": "https://www.automationexercise.com/get_product_picture/30",
+            "size": 17079,
+            "type": "img"
+          },
+          {
+            "duration": 4897,
+            "name": "https://www.automationexercise.com/get_product_picture/33",
+            "size": 50730,
+            "type": "img"
+          },
+          {
+            "duration": 8059,
+            "name": "https://www.automationexercise.com/get_product_picture/31",
+            "size": 133574,
+            "type": "img"
+          },
+          {
+            "duration": 10411,
+            "name": "https://www.automationexercise.com/get_product_picture/29",
+            "size": 538285,
+            "type": "img"
+          },
+          {
+            "duration": 3745,
+            "name": "https://www.automationexercise.com/get_product_picture/38",
+            "size": 24096,
+            "type": "img"
+          },
+          {
+            "duration": 5524,
+            "name": "https://www.automationexercise.com/get_product_picture/35",
+            "size": 64432,
+            "type": "img"
+          },
+          {
+            "duration": 6575,
+            "name": "https://www.automationexercise.com/get_product_picture/39",
+            "size": 93769,
+            "type": "img"
+          },
+          {
+            "duration": 8485,
+            "name": "https://www.automationexercise.com/get_product_picture/37",
+            "size": 164015,
+            "type": "img"
+          },
+          {
+            "duration": 8918,
+            "name": "https://www.automationexercise.com/get_product_picture/40",
+            "size": 103271,
+            "type": "img"
+          },
+          {
+            "duration": 9342,
+            "name": "https://www.automationexercise.com/get_product_picture/41",
+            "size": 211960,
+            "type": "img"
+          },
+          {
+            "duration": 9351,
+            "name": "https://www.automationexercise.com/get_product_picture/42",
+            "size": 176615,
+            "type": "img"
+          },
+          {
+            "duration": 7840,
+            "name": "https://www.automationexercise.com/get_product_picture/43",
+            "size": 104740,
+            "type": "img"
+          },
+          {
+            "duration": 9383,
+            "name": "https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202507140101/show_ads_impl.js?bust=31093487",
+            "size": 190292,
+            "type": "script"
+          },
+          {
+            "duration": 9592,
+            "name": "https://www.automationexercise.com/static/fonts/fontawesome-webfont.woff?v=4.0.3",
+            "size": 44436,
+            "type": "css"
+          }
+        ],
+        "oversized_images": [
+          {
+            "url": "https://www.automationexercise.com/static/images/home/logo.png",
+            "size_kb": 5.4
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl1.jpg",
+            "size_kb": 130.7
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl2.jpg",
+            "size_kb": 140.9
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl3.jpg",
+            "size_kb": 121.5
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/1",
+            "size_kb": 31.6
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/2",
+            "size_kb": 32.3
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/5",
+            "size_kb": 36.9
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/3",
+            "size_kb": 20.3
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/4",
+            "size_kb": 28.5
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/6",
+            "size_kb": 37.4
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/7",
+            "size_kb": 101.3
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/12",
+            "size_kb": 19.9
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/8",
+            "size_kb": 19.2
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/13",
+            "size_kb": 132.8
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/11",
+            "size_kb": 242.0
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/19",
+            "size_kb": 12.6
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/16",
+            "size_kb": 24.0
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/18",
+            "size_kb": 13.3
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/14",
+            "size_kb": 16.3
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/20",
+            "size_kb": 32.2
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/15",
+            "size_kb": 41.7
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/23",
+            "size_kb": 10.9
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/22",
+            "size_kb": 72.1
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/21",
+            "size_kb": 193.8
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/28",
+            "size_kb": 29.7
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/24",
+            "size_kb": 149.7
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/30",
+            "size_kb": 16.7
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/33",
+            "size_kb": 49.5
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/31",
+            "size_kb": 130.4
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/29",
+            "size_kb": 525.7
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/38",
+            "size_kb": 23.5
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/35",
+            "size_kb": 62.9
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/39",
+            "size_kb": 91.6
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/37",
+            "size_kb": 160.2
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/40",
+            "size_kb": 100.9
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/41",
+            "size_kb": 207.0
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/42",
+            "size_kb": 172.5
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/43",
+            "size_kb": 102.3
+          }
+        ]
+      }
+    },
+    "https://www.enableedge.com": {
+      "performance": {
+        "page_load_time_ms": 10167
+      },
+      "console_issues": {
+        "errors": [],
+        "warnings": [
+          "https://www.enableedge.com/static/js/main.1e9d5f22.js 1:136393 \"GSAP target [object NodeList] not found. https://gsap.com\"",
+          "https://www.enableedge.com/static/js/main.1e9d5f22.js 1:136393 \"GSAP target [object NodeList] not found. https://gsap.com\""
+        ],
+        "deprecations": []
+      },
+      "api_issues": {
+        "errors": [],
+        "timeouts": [],
+        "slow_responses_ms": [
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl2.jpg",
+            "duration_ms": 5065
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl3.jpg",
+            "duration_ms": 6424
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/11",
+            "duration_ms": 9361
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/4",
+            "duration_ms": 5647
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/13",
+            "duration_ms": 8610
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/7",
+            "duration_ms": 5764
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/6",
+            "duration_ms": 5745
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/18",
+            "duration_ms": 3868
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/20",
+            "duration_ms": 4279
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/14",
+            "duration_ms": 3969
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/15",
+            "duration_ms": 5951
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/29",
+            "duration_ms": 10178
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/22",
+            "duration_ms": 5938
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/21",
+            "duration_ms": 9223
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/24",
+            "duration_ms": 8674
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/41",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/33",
+            "duration_ms": 4666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/37",
+            "duration_ms": 8248
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/42",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/39",
+            "duration_ms": 6336
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/40",
+            "duration_ms": 8666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/38",
+            "duration_ms": 3505
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/35",
+            "duration_ms": 5280
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/31",
+            "duration_ms": 7808
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/43",
+            "duration_ms": 7592
+          },
+          {
+            "url": "https://android.clients.google.com/c2dm/register3",
+            "duration_ms": 3420
+          }
+        ]
+      },
+      "resource_issues": {
+        "missing_or_404": [],
+        "slow_resources_ms": [
+          {
+            "duration": 8538,
+            "name": "https://www.youtube.com/embed/6j4fPVkA3EA?si=llcTrXPRM-MRXDZB&controls=0&rel=0&showinfo=0&autoplay=1&loop=1&mute=1",
+            "size": 0,
+            "type": "iframe"
+          },
+          {
+            "duration": 2258,
+            "name": "https://firebaseinstallations.googleapis.com/v1/projects/enable-edge/installations",
+            "size": 0,
+            "type": "fetch"
+          },
+          {
+            "duration": 3892,
+            "name": "https://www.googletagmanager.com/gtag/js?l=dataLayer&id=G-3HBDH02SN9",
+            "size": 0,
+            "type": "script"
+          }
+        ],
+        "oversized_images": [
+          {
+            "url": "https://www.enableedge.com/static/media/man.0d742e9602c0f34f2311.jpg",
+            "size_kb": 18.1
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/women.161865945bb2dc1aa137.jpg",
+            "size_kb": 25.4
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/man2.fd4e03c36f6cdcd7c949.jpg",
+            "size_kb": 14.6
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/bug-detected.7a4368d962a8a334b334.webp",
+            "size_kb": 27.2
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/tailored-solution2.5a67fb4c0e214f6c5e5a.jpg",
+            "size_kb": 14.8
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/workflow.da25cc33cca15f870968.png",
+            "size_kb": 7.7
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/qa-testing.0f83f5e718e5cfb5bcdc.png",
+            "size_kb": 201.8
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/multi-sub.ab9bdf790281bd3fd201.png",
+            "size_kb": 24.2
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/linkedin_logo.06418a3e06c3cd1ab360.png",
+            "size_kb": 12.8
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/single-sub.cd2b2eedcda53af51b8b.png",
+            "size_kb": 22.6
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/x_logo.c1272971537946a82f1e.png",
+            "size_kb": 16.1
+          },
+          {
+            "url": "https://www.enableedge.com/static/media/github_logo.e63ab843ae9ed4dbd3f1.png",
+            "size_kb": 5.3
+          }
+        ]
+      }
+    },
+    "https://www.guru99.com": {
+      "performance": {
+        "page_load_time_ms": 20011
+      },
+      "console_issues": {
+        "errors": [
+          "https://www.guru99.com/ 1609:12 \"Error fetching geolocation data.\""
+        ],
+        "warnings": [],
+        "deprecations": []
+      },
+      "api_issues": {
+        "errors": [],
+        "timeouts": [
+          {
+            "url": "https://get.geojs.io/v1/ip/geo.js?callback=jQuery37101566152947516547_1752738315969&_=1752738315970",
+            "method": "GET"
+          }
+        ],
+        "slow_responses_ms": [
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl2.jpg",
+            "duration_ms": 5065
+          },
+          {
+            "url": "https://www.automationexercise.com/static/images/home/girl3.jpg",
+            "duration_ms": 6424
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/11",
+            "duration_ms": 9361
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/4",
+            "duration_ms": 5647
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/13",
+            "duration_ms": 8610
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/7",
+            "duration_ms": 5764
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/6",
+            "duration_ms": 5745
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/18",
+            "duration_ms": 3868
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/20",
+            "duration_ms": 4279
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/14",
+            "duration_ms": 3969
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/15",
+            "duration_ms": 5951
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/29",
+            "duration_ms": 10178
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/22",
+            "duration_ms": 5938
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/21",
+            "duration_ms": 9223
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/24",
+            "duration_ms": 8674
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/41",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/33",
+            "duration_ms": 4666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/37",
+            "duration_ms": 8248
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/42",
+            "duration_ms": 9104
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/39",
+            "duration_ms": 6336
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/40",
+            "duration_ms": 8666
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/38",
+            "duration_ms": 3505
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/35",
+            "duration_ms": 5280
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/31",
+            "duration_ms": 7808
+          },
+          {
+            "url": "https://www.automationexercise.com/get_product_picture/43",
+            "duration_ms": 7592
+          },
+          {
+            "url": "https://android.clients.google.com/c2dm/register3",
+            "duration_ms": 3420
+          },
+          {
+            "url": "https://o.clarity.ms/collect",
+            "duration_ms": 8302
+          },
+          {
+            "url": "https://o.clarity.ms/collect",
+            "duration_ms": 3067
+          }
+        ]
+      },
+      "resource_issues": {
+        "missing_or_404": [],
+        "slow_resources_ms": [
+          {
+            "duration": 18920,
+            "name": "https://get.geojs.io/v1/ip/geo.js?callback=jQuery37101566152947516547_1752738315969&_=1752738315970",
+            "size": 0,
+            "type": "script"
+          },
+          {
+            "duration": 4802,
+            "name": "https://analytics.google.com/g/collect?v=2&tid=G-30SEBTJ46Q&gtm=45je57f1v888093076za200&_p=1752738315636&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143&cid=2141892158.1752738317&ul=en-us&sr=800x600&uaa=x86&uab=64&uafvl=Not)A%253BBrand%3B8.0.0.0%7CChromium%3B138.0.7204.101%7CGoogle%2520Chrome%3B138.0.7204.101&uamb=0&uam=&uap=Windows&uapv=19.0.0&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&sid=1752738316&sct=1&seg=0&dl=https%3A%2F%2Fwww.guru99.com%2F&dt=Guru99%3A%20Free%20Online%20Tutorials%20and%20Business%20Software%20Reviews&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1977",
+            "size": 0,
+            "type": "fetch"
+          },
+          {
+            "duration": 6203,
+            "name": "https://stats.g.doubleclick.net/g/collect?v=2&tid=G-30SEBTJ46Q&cid=2141892158.1752738317&gtm=45je57f1v888093076za200&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104732253~104732255~104908321~104908323~104964065~104964067~104967141~104967143",
+            "size": 0,
+            "type": "beacon"
+          },
+          {
+            "duration": 16158,
+            "name": "https://app.convertbox.com/embed/user?uuid=009be0ed-66aa-4d6f-a61b-534dc59920bf",
+            "size": 0,
+            "type": "xmlhttprequest"
+          },
+          {
+            "duration": 15775,
+            "name": "https://o.clarity.ms/collect",
+            "size": 0,
+            "type": "xmlhttprequest"
+          },
+          {
+            "duration": 15586,
+            "name": "https://o.clarity.ms/collect",
+            "size": 0,
+            "type": "xmlhttprequest"
+          },
+          {
+            "duration": 15728,
+            "name": "https://cse.google.com/adsense/search/async-ads.js",
+            "size": 0,
+            "type": "script"
+          },
+          {
+            "duration": 15443,
+            "name": "https://www.google.com/cse/static/images/1x/en/branding.png",
+            "size": 0,
+            "type": "img"
+          },
+          {
+            "duration": 15544,
+            "name": "https://clients1.google.com/generate_204",
+            "size": 0,
+            "type": "img"
+          },
+          {
+            "duration": 13164,
+            "name": "https://o.clarity.ms/collect",
+            "size": 0,
+            "type": "xmlhttprequest"
+          }
+        ],
+        "oversized_images": [
+          {
+            "url": "https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png",
+            "size_kb": 161.1
+          }
+        ]
+      }
+    }
+  },
+  "standard": {
+    "performance": {
+      "page_load_ms": 3000
+    },
+    "resource": {
+      "image_max_kb": 5
+    }
+  }
+}

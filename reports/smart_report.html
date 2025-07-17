@@ -1,0 +1,729 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><title>Smart Diagnostics Report</title>
+  <style>
+    body { font-family: Arial; margin: 20px; }
+    h2 { border-bottom: 1px solid #ccc; padding-bottom: 4px; }
+    table { width: 100%; border-collapse: collapse; margin-bottom: 20px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background: #f4f4f4; }
+    .error { color: #c00 }
+    .warn  { color: #e65 }
+    .ok    { color: #090 }
+  </style>
+</head>
+<body>
+  <h1>Smart Diagnostics Report</h1>
+  
+    <h2>https://www.automationexercise.com</h2>
+
+    <h3>Performance</h3>
+    <p>
+      Load Time: <strong>15673 ms</strong>
+      (Expected ≤ 3000 ms)
+      
+        <span class="error">FAIL</span>
+      
+    </p>
+
+    <h3>Console Issues</h3>
+    
+      <p>Errors:
+        <span class="error">
+          3
+        </span>
+      </p>
+      
+      <table>
+        <tr><th>Message</th></tr>
+        
+          <tr><td>https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS.</td></tr>
+        
+          <tr><td>https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS.</td></tr>
+        
+          <tr><td>https://www.automationexercise.com/ - Mixed Content: The page at 'https://www.automationexercise.com/' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS.</td></tr>
+        
+      </table>
+      
+    
+      <p>Warnings:
+        <span class="warn">
+          0
+        </span>
+      </p>
+      
+    
+      <p>Deprecations:
+        <span class="warn">
+          0
+        </span>
+      </p>
+      
+    
+
+    <h3>API Issues</h3>
+    <p>
+      Errors: <span class="error">0</span>,
+      Timeouts: <span class="warn">0</span>,
+      Slow: <span class="warn">25</span>
+    </p>
+
+    <h3>Resource Issues</h3>
+    <p>
+      Missing/404: <span class="error">0</span>,
+      Slow: <span class="warn">33</span>,
+      Oversized Images: <span class="error">38</span>
+      (Max 5 KB)
+    </p>
+    
+      <table>
+        <tr><th>URL</th><th>Size (KB)</th><th>Result</th></tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/static/images/home/logo.png</td>
+          <td>5.4</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/static/images/home/girl1.jpg</td>
+          <td>130.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/static/images/home/girl2.jpg</td>
+          <td>140.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/static/images/home/girl3.jpg</td>
+          <td>121.5</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/1</td>
+          <td>31.6</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/2</td>
+          <td>32.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/5</td>
+          <td>36.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/3</td>
+          <td>20.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/4</td>
+          <td>28.5</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/6</td>
+          <td>37.4</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/7</td>
+          <td>101.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/12</td>
+          <td>19.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/8</td>
+          <td>19.2</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/13</td>
+          <td>132.8</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/11</td>
+          <td>242.0</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/19</td>
+          <td>12.6</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/16</td>
+          <td>24.0</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/18</td>
+          <td>13.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/14</td>
+          <td>16.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/20</td>
+          <td>32.2</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/15</td>
+          <td>41.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/23</td>
+          <td>10.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/22</td>
+          <td>72.1</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/21</td>
+          <td>193.8</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/28</td>
+          <td>29.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/24</td>
+          <td>149.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/30</td>
+          <td>16.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/33</td>
+          <td>49.5</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/31</td>
+          <td>130.4</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/29</td>
+          <td>525.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/38</td>
+          <td>23.5</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/35</td>
+          <td>62.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/39</td>
+          <td>91.6</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/37</td>
+          <td>160.2</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/40</td>
+          <td>100.9</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/41</td>
+          <td>207.0</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/42</td>
+          <td>172.5</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.automationexercise.com/get_product_picture/43</td>
+          <td>102.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+      </table>
+    
+
+  
+    <h2>https://www.enableedge.com</h2>
+
+    <h3>Performance</h3>
+    <p>
+      Load Time: <strong>10167 ms</strong>
+      (Expected ≤ 3000 ms)
+      
+        <span class="error">FAIL</span>
+      
+    </p>
+
+    <h3>Console Issues</h3>
+    
+      <p>Errors:
+        <span class="error">
+          0
+        </span>
+      </p>
+      
+    
+      <p>Warnings:
+        <span class="warn">
+          2
+        </span>
+      </p>
+      
+      <table>
+        <tr><th>Message</th></tr>
+        
+          <tr><td>https://www.enableedge.com/static/js/main.1e9d5f22.js 1:136393 "GSAP target [object NodeList] not found. https://gsap.com"</td></tr>
+        
+          <tr><td>https://www.enableedge.com/static/js/main.1e9d5f22.js 1:136393 "GSAP target [object NodeList] not found. https://gsap.com"</td></tr>
+        
+      </table>
+      
+    
+      <p>Deprecations:
+        <span class="warn">
+          0
+        </span>
+      </p>
+      
+    
+
+    <h3>API Issues</h3>
+    <p>
+      Errors: <span class="error">0</span>,
+      Timeouts: <span class="warn">0</span>,
+      Slow: <span class="warn">26</span>
+    </p>
+
+    <h3>Resource Issues</h3>
+    <p>
+      Missing/404: <span class="error">0</span>,
+      Slow: <span class="warn">3</span>,
+      Oversized Images: <span class="error">12</span>
+      (Max 5 KB)
+    </p>
+    
+      <table>
+        <tr><th>URL</th><th>Size (KB)</th><th>Result</th></tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/man.0d742e9602c0f34f2311.jpg</td>
+          <td>18.1</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/women.161865945bb2dc1aa137.jpg</td>
+          <td>25.4</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/man2.fd4e03c36f6cdcd7c949.jpg</td>
+          <td>14.6</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/bug-detected.7a4368d962a8a334b334.webp</td>
+          <td>27.2</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/tailored-solution2.5a67fb4c0e214f6c5e5a.jpg</td>
+          <td>14.8</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/workflow.da25cc33cca15f870968.png</td>
+          <td>7.7</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/qa-testing.0f83f5e718e5cfb5bcdc.png</td>
+          <td>201.8</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/multi-sub.ab9bdf790281bd3fd201.png</td>
+          <td>24.2</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/linkedin_logo.06418a3e06c3cd1ab360.png</td>
+          <td>12.8</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/single-sub.cd2b2eedcda53af51b8b.png</td>
+          <td>22.6</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/x_logo.c1272971537946a82f1e.png</td>
+          <td>16.1</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+        <tr>
+          <td>https://www.enableedge.com/static/media/github_logo.e63ab843ae9ed4dbd3f1.png</td>
+          <td>5.3</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+      </table>
+    
+
+  
+    <h2>https://www.guru99.com</h2>
+
+    <h3>Performance</h3>
+    <p>
+      Load Time: <strong>20011 ms</strong>
+      (Expected ≤ 3000 ms)
+      
+        <span class="error">FAIL</span>
+      
+    </p>
+
+    <h3>Console Issues</h3>
+    
+      <p>Errors:
+        <span class="error">
+          1
+        </span>
+      </p>
+      
+      <table>
+        <tr><th>Message</th></tr>
+        
+          <tr><td>https://www.guru99.com/ 1609:12 "Error fetching geolocation data."</td></tr>
+        
+      </table>
+      
+    
+      <p>Warnings:
+        <span class="warn">
+          0
+        </span>
+      </p>
+      
+    
+      <p>Deprecations:
+        <span class="warn">
+          0
+        </span>
+      </p>
+      
+    
+
+    <h3>API Issues</h3>
+    <p>
+      Errors: <span class="error">0</span>,
+      Timeouts: <span class="warn">1</span>,
+      Slow: <span class="warn">28</span>
+    </p>
+
+    <h3>Resource Issues</h3>
+    <p>
+      Missing/404: <span class="error">0</span>,
+      Slow: <span class="warn">10</span>,
+      Oversized Images: <span class="error">1</span>
+      (Max 5 KB)
+    </p>
+    
+      <table>
+        <tr><th>URL</th><th>Size (KB)</th><th>Result</th></tr>
+        
+        <tr>
+          <td>https://www.guru99.com/images/screenshots/guru99-home-page-image-v7.png</td>
+          <td>161.1</td>
+          <td>
+            
+              <span class="error">FAIL</span>
+            
+          </td>
+        </tr>
+        
+      </table>
+    
+
+  
+</body>
+</html>
